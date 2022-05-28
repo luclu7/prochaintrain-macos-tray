@@ -1,0 +1,7732 @@
+[
+  {
+    "label": "Ablon",
+    "id": "8754526",
+    "train": false,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "ABLON"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.417931573714535,
+    "latitude": 48.72396312662991
+  },
+  {
+    "label": "Achères Grand Cormier",
+    "id": "8738605",
+    "train": true,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "ACHERES GRAND CORMIER"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.092094579250713,
+    "latitude": 48.95528483926228
+  },
+  {
+    "label": "Achères Ville",
+    "id": "8738165",
+    "train": true,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "ACHERES VILLE"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.077781536261871,
+    "latitude": 48.970114458751645
+  },
+  {
+    "label": "Aéroport Charles de Gaulle 1 (Terminal 3)",
+    "id": "8727146",
+    "train": false,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "AEROPORT CHARLES DE GAULLE 1 (Tremblay en France)",
+      "AEROPORT CHARLES DE GAULLE 1 (TERMINAL 3)"
+    ],
+    "nbAutomates": 3,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.555963637162915,
+    "latitude": 49.008827418225586
+  },
+  {
+    "label": "Aéroport Charles de Gaulle 2 (Terminal 2)",
+    "id": "8700147",
+    "train": false,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "AEROPORT CHARLES DE GAULLE 2 TGV",
+      "AEROPORT CHARLES DE GAULLE 2 (TERMINAL 2)"
+    ],
+    "nbAutomates": 7,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.570035507097067,
+    "latitude": 49.0085079715308
+  },
+  {
+    "label": "Allée de la Tour-Rendez-vous",
+    "id": "8711387",
+    "train": false,
+    "rer": false,
+    "tramway": true,
+    "keywords": [
+      "ALLEE DE LA TOUR RENDEZ VOUS"
+    ],
+    "nbAutomates": 0,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.506173573505654,
+    "latitude": 48.8968204761102
+  },
+  {
+    "label": "Andrésy",
+    "id": "8738149",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "ANDRESY"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.049102056308881,
+    "latitude": 48.974783703213305
+  },
+  {
+    "label": "Angerville",
+    "id": "8754309",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "ANGERVILLE"
+    ],
+    "nbAutomates": 0,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.002985423153945,
+    "latitude": 48.31036081579418
+  },
+  {
+    "label": "Antony",
+    "id": "8775875",
+    "train": false,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "ANTONY"
+    ],
+    "nbAutomates": 0,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.300986855722909,
+    "latitude": 48.754946525495555
+  },
+  {
+    "label": "Arboretum",
+    "id": "8770432",
+    "train": false,
+    "rer": false,
+    "tramway": true,
+    "keywords": [
+      "ARBORETUM"
+    ],
+    "nbAutomates": 0,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.5652,
+    "latitude": 48.8974
+  },
+  {
+    "label": "Arcueil - Cachan",
+    "id": "8775867",
+    "train": false,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "ARCUEIL CACHAN"
+    ],
+    "nbAutomates": 0,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.328136923064751,
+    "latitude": 48.798892499145914
+  },
+  {
+    "label": "Argenteuil",
+    "id": "8738184",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "ARGENTEUIL"
+    ],
+    "nbAutomates": 4,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.257503373403379,
+    "latitude": 48.9471544554575
+  },
+  {
+    "label": "Arpajon",
+    "id": "8754546",
+    "train": false,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "ARPAJON"
+    ],
+    "nbAutomates": 2,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.240991107437124,
+    "latitude": 48.58603053676793
+  },
+  {
+    "label": "Asnières-sur-Seine",
+    "id": "8738113",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "ASNIERES SUR SEINE"
+    ],
+    "nbAutomates": 5,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.284164174078475,
+    "latitude": 48.90542323542541
+  },
+  {
+    "label": "Athis-Mons",
+    "id": "8754525",
+    "train": false,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "ATHIS MONS"
+    ],
+    "nbAutomates": 3,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.403057100868732,
+    "latitude": 48.712330158604146
+  },
+  {
+    "label": "Auber",
+    "id": "8775859",
+    "train": false,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "AUBER"
+    ],
+    "nbAutomates": 0,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.329927170608275,
+    "latitude": 48.87215749394265
+  },
+  {
+    "label": "Aubergenville Élisabethville",
+    "id": "8738673",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "AUBERGENVILLE ELISABETHVILLE"
+    ],
+    "nbAutomates": 2,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 1.848450617082139,
+    "latitude": 48.97211162611124
+  },
+  {
+    "label": "Aulnay-sous-Bois",
+    "id": "8727141",
+    "train": true,
+    "rer": true,
+    "tramway": true,
+    "keywords": [
+      "AULNAY SOUS BOIS"
+    ],
+    "nbAutomates": 5,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.494534649817342,
+    "latitude": 48.9322956659189
+  },
+  {
+    "label": "Auvers-sur-Oise",
+    "id": "8727654",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "AUVERS SUR OISE"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.176811926003305,
+    "latitude": 49.071008184141796
+  },
+  {
+    "label": "Avenue du Président Kennedy Maison de Radio France",
+    "id": "8754320",
+    "train": false,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "AVENUE DU PRESIDENT KENNEDY MAISON DE RADIO FRANCE"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.280643922537805,
+    "latitude": 48.85303782778344
+  },
+  {
+    "label": "Avenue Foch",
+    "id": "8738103",
+    "train": false,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "AVENUE FOCH"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.2755053026993,
+    "latitude": 48.87095631866803
+  },
+  {
+    "label": "Avenue Henri Martin",
+    "id": "8738104",
+    "train": false,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "AVENUE HENRI MARTIN"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.272147611301899,
+    "latitude": 48.864346280061504
+  },
+  {
+    "label": "Bagneaux-sur-Loing",
+    "id": "8768419",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "BAGNEAUX SUR LOING"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.703400730744868,
+    "latitude": 48.23049418737917
+  },
+  {
+    "label": "Bagneux",
+    "id": "8775868",
+    "train": false,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "BAGNEUX"
+    ],
+    "nbAutomates": 0,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.322201633670121,
+    "latitude": 48.79333629530144
+  },
+  {
+    "label": "Ballancourt",
+    "id": "8768143",
+    "train": false,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "BALLANCOURT"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.371185007383889,
+    "latitude": 48.53222208980665
+  },
+  {
+    "label": "Bécon les Bruyères",
+    "id": "8738200",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "BECON LES BRUYERES"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.268812548835781,
+    "latitude": 48.90516953339948
+  },
+  {
+    "label": "Bellevue",
+    "id": "8739311",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "BELLEVUE"
+    ],
+    "nbAutomates": 2,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.229850778453927,
+    "latitude": 48.81884317835575
+  },
+  {
+    "label": "Belloy - Saint-Martin",
+    "id": "8727655",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "BELLOY SAINT MARTIN"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.361203045024103,
+    "latitude": 49.09815099951254
+  },
+  {
+    "label": "Bessancourt",
+    "id": "8727664",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "BESSANCOURT"
+    ],
+    "nbAutomates": 2,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.209859681939533,
+    "latitude": 49.035731366037
+  },
+  {
+    "label": "Beynes",
+    "id": "8739336",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "BEYNES"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 1.875845691637385,
+    "latitude": 48.85939063028636
+  },
+  {
+    "label": "Bibliothèque François Mitterrand",
+    "id": "8732832",
+    "train": false,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "BIBLIOTHEQUE FRANCOIS MITTERRAND"
+    ],
+    "nbAutomates": 2,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.379742121417859,
+    "latitude": 48.82724794626851
+  },
+  {
+    "label": "Bièvres",
+    "id": "8739354",
+    "train": false,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "BIEVRES"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.215591467179212,
+    "latitude": 48.751232547120566
+  },
+  {
+    "label": "Boigneville",
+    "id": "8768440",
+    "train": false,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "BOIGNEVILLE"
+    ],
+    "nbAutomates": 2,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.379038997367991,
+    "latitude": 48.34215966984908
+  },
+  {
+    "label": "Bois-Colombes",
+    "id": "8738107",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "BOIS COLOMBES"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.27245533273744,
+    "latitude": 48.913671453994574
+  },
+  {
+    "label": "Bois-le-Roi",
+    "id": "8768220",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "BOIS LE ROI"
+    ],
+    "nbAutomates": 2,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.69055173862894,
+    "latitude": 48.476397503236576
+  },
+  {
+    "label": "Boissise-le-Roi",
+    "id": "8768251",
+    "train": false,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "BOISSISE LE ROI"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.573449862828317,
+    "latitude": 48.529165394139035
+  },
+  {
+    "label": "Boissy-l'Aillerie",
+    "id": "8738115",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "BOISSY L'AILLERIE"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.024992371835797,
+    "latitude": 49.07580982720981
+  },
+  {
+    "label": "Boissy-Saint-Léger",
+    "id": "8775820",
+    "train": false,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "BOISSY SAINT LEGER"
+    ],
+    "nbAutomates": 0,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.504559838317234,
+    "latitude": 48.75218572255196
+  },
+  {
+    "label": "Bondy",
+    "id": "8711340",
+    "train": true,
+    "rer": true,
+    "tramway": true,
+    "keywords": [
+      "BONDY"
+    ],
+    "nbAutomates": 2,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.478714466495549,
+    "latitude": 48.8939012076903
+  },
+  {
+    "label": "Bonnières",
+    "id": "8741589",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "BONNIERES"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 1.58161111135634,
+    "latitude": 49.03874367959271
+  },
+  {
+    "label": "Boran-sur-Oise",
+    "id": "8727644",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "BORAN SUR OISE"
+    ],
+    "nbAutomates": 0,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.362764104585043,
+    "latitude": 49.167044991880324
+  },
+  {
+    "label": "Bouffémont - Moisselles",
+    "id": "8727648",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "BOUFFEMONT MOISSELLES"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.322968171577075,
+    "latitude": 49.04519005770302
+  },
+  {
+    "label": "Bougival",
+    "id": "8738244",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "BOUGIVAL"
+    ],
+    "nbAutomates": 2,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.132167367768379,
+    "latitude": 48.85424085579581
+  },
+  {
+    "label": "Boulainvilliers",
+    "id": "8754318",
+    "train": false,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "BOULAINVILLIERS"
+    ],
+    "nbAutomates": 2,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.275219889953156,
+    "latitude": 48.85644696971221
+  },
+  {
+    "label": "Bouray",
+    "id": "8754517",
+    "train": false,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "BOURAY"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.289125822214123,
+    "latitude": 48.53193456586715
+  },
+  {
+    "label": "Bourg-la-Reine",
+    "id": "8775869",
+    "train": false,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "BOURG LA REINE"
+    ],
+    "nbAutomates": 0,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.312307716888593,
+    "latitude": 48.78031379546215
+  },
+  {
+    "label": "Bourron-Marlotte - Grez",
+    "id": "8768411",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "BOURRON MARLOTTE GREZ"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.692614190301942,
+    "latitude": 48.332714786210815
+  },
+  {
+    "label": "Boussy-Saint-Antoine",
+    "id": "8768213",
+    "train": true,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "BOUSSY SAINT ANTOINE"
+    ],
+    "nbAutomates": 3,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.531116871671902,
+    "latitude": 48.68174962531153
+  },
+  {
+    "label": "Boutigny",
+    "id": "8768147",
+    "train": false,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "BOUTIGNY"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.376208883581087,
+    "latitude": 48.43492164536152
+  },
+  {
+    "label": "Brétigny",
+    "id": "8754519",
+    "train": false,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "BRETIGNY"
+    ],
+    "nbAutomates": 5,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.301424948919999,
+    "latitude": 48.60524828991471
+  },
+  {
+    "label": "Breuillet - Bruyères-le-Châtel",
+    "id": "8754548",
+    "train": false,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "BREUILLET BRUYERES LE CHATEL"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.191610679522858,
+    "latitude": 48.577254746375345
+  },
+  {
+    "label": "Breuillet Village",
+    "id": "8754549",
+    "train": false,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "BREUILLET VILLAGE"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.171429856330237,
+    "latitude": 48.564764334717566
+  },
+  {
+    "label": "Bréval",
+    "id": "8738162",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "BREVAL"
+    ],
+    "nbAutomates": 0,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 1.541809732466045,
+    "latitude": 48.94339458515851
+  },
+  {
+    "label": "Brunoy",
+    "id": "8768212",
+    "train": true,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "BRUNOY"
+    ],
+    "nbAutomates": 3,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.505561391433407,
+    "latitude": 48.700458760023
+  },
+  {
+    "label": "Bruyères-sur-Oise",
+    "id": "8727645",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "BRUYERES SUR OISE"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.326423206078788,
+    "latitude": 49.15515715751033
+  },
+  {
+    "label": "Bry-sur-Marne",
+    "id": "8775832",
+    "train": false,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "BRY SUR MARNE"
+    ],
+    "nbAutomates": 0,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.525922546568197,
+    "latitude": 48.84490113777819
+  },
+  {
+    "label": "Buno - Gironville",
+    "id": "8768151",
+    "train": false,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "BUNO GIRONVILLE"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.387007586562321,
+    "latitude": 48.37033137332853
+  },
+  {
+    "label": "Bures-sur-Yvette",
+    "id": "8775885",
+    "train": false,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "BURES SUR YVETTE"
+    ],
+    "nbAutomates": 0,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.16437824278855,
+    "latitude": 48.696252745979855
+  },
+  {
+    "label": "Bussy-Saint-Georges",
+    "id": "8775498",
+    "train": false,
+    "rer": true,
+    "tramway": false,
+    "keywords": [],
+    "nbAutomates": 0,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.708981742262277,
+    "latitude": 48.83653643201063
+  },
+  {
+    "label": "Cergy le Haut",
+    "id": "8738265",
+    "train": true,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "CERGY LE HAUT"
+    ],
+    "nbAutomates": 4,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.011539282920865,
+    "latitude": 49.048134659088774
+  },
+  {
+    "label": "Cergy Préfecture",
+    "id": "8738190",
+    "train": true,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "CERGY PREFECTURE"
+    ],
+    "nbAutomates": 6,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.079483531241085,
+    "latitude": 49.036498517365615
+  },
+  {
+    "label": "Cergy Saint-Christophe",
+    "id": "8738249",
+    "train": true,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "CERGY SAINT CHRISTOPHE"
+    ],
+    "nbAutomates": 2,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.03428786185133,
+    "latitude": 49.04963335681341
+  },
+  {
+    "label": "Cernay",
+    "id": "8727606",
+    "train": true,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "CERNAY"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.256114102392353,
+    "latitude": 48.98551638656152
+  },
+  {
+    "label": "Cesson",
+    "id": "8768216",
+    "train": true,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "CESSON"
+    ],
+    "nbAutomates": 2,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.593661997326091,
+    "latitude": 48.56716702851207
+  },
+  {
+    "label": "Chamarande",
+    "id": "8754515",
+    "train": false,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "CHAMARANDE"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.214081367581303,
+    "latitude": 48.51320317645819
+  },
+  {
+    "label": "Champagne-sur-Oise",
+    "id": "8727651",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "CHAMPAGNE SUR OISE"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.241409693547037,
+    "latitude": 49.13551947940391
+  },
+  {
+    "label": "Champagne-sur-Seine",
+    "id": "8768245",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "CHAMPAGNE SUR SEINE"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.799388254139055,
+    "latitude": 48.406631413045
+  },
+  {
+    "label": "Champbenoist Poigny",
+    "id": "8711587",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "CHAMPBENOIST POIGNY"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 3.287148323732938,
+    "latitude": 48.54548709575709
+  },
+  {
+    "label": "Champ de Courses d'Enghien",
+    "id": "8727603",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "CHAMP DE COURSES D'ENGHIEN"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.29208498204663,
+    "latitude": 48.97963342222922
+  },
+  {
+    "label": "Champ de Mars Tour Eiffel",
+    "id": "8739305",
+    "train": false,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "CHAMP DE MARS TOUR EIFFEL"
+    ],
+    "nbAutomates": 3,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.287661980210214,
+    "latitude": 48.85382608574039
+  },
+  {
+    "label": "Champigny",
+    "id": "8775817",
+    "train": false,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "CHAMPIGNY"
+    ],
+    "nbAutomates": 0,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.510307237115641,
+    "latitude": 48.806985070711534
+  },
+  {
+    "label": "Changis - Saint-Jean",
+    "id": "8711650",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "CHANGIS SAINT JEAN"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 3.025347777327805,
+    "latitude": 48.95916369096754
+  },
+  {
+    "label": "Chanteloup-les-Vignes",
+    "id": "8738147",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "CHANTELOUP LES VIGNES"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.027502235521161,
+    "latitude": 48.97035209098213
+  },
+  {
+    "label": "Chantilly - Gouvieux",
+    "id": "8727611",
+    "train": true,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "CHANTILLY GOUVIEUX"
+    ],
+    "nbAutomates": 0,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.459392185313763,
+    "latitude": 49.18774048603881
+  },
+  {
+    "label": "Chaponval",
+    "id": "8727616",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "CHAPONVAL"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.14174884933166,
+    "latitude": 49.069128055447806
+  },
+  {
+    "label": "Charles-de-Gaulle Étoile",
+    "id": "8775800",
+    "train": false,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "CHARLES DE GAULLE ETOILE"
+    ],
+    "nbAutomates": 0,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.295560256213147,
+    "latitude": 48.874748649745484
+  },
+  {
+    "label": "Chars",
+    "id": "8738119",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "CHARS"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 1.936959193648112,
+    "latitude": 49.162611630469804
+  },
+  {
+    "label": "Chartrettes",
+    "id": "8768241",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "CHARTRETTES"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.695108853978984,
+    "latitude": 48.48703643573107
+  },
+  {
+    "label": "Château-Thierry",
+    "id": "8711658",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "CHATEAU THIERRY"
+    ],
+    "nbAutomates": 0,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 3.409738322821553,
+    "latitude": 49.03782614971172
+  },
+  {
+    "label": "Châtelet les Halles",
+    "id": "8775860",
+    "train": false,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "CHATELET LES HALLES"
+    ],
+    "nbAutomates": 0,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.345673828222722,
+    "latitude": 48.86231627776114
+  },
+  {
+    "label": "Chatou - Croissy",
+    "id": "8775806",
+    "train": false,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "CHATOU CROISSY"
+    ],
+    "nbAutomates": 0,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.155903471896522,
+    "latitude": 48.885211217274076
+  },
+  {
+    "label": "Chaumont-en-Vexin",
+    "id": "8738122",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "CHAUMONT EN VEXIN"
+    ],
+    "nbAutomates": 0,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 1.87274012538591,
+    "latitude": 49.26122040204954
+  },
+  {
+    "label": "Chaville Rive Droite",
+    "id": "8738233",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "CHAVILLE RIVE DROITE"
+    ],
+    "nbAutomates": 2,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.187854438207451,
+    "latitude": 48.812054119748325
+  },
+  {
+    "label": "Chaville Rive Gauche",
+    "id": "8739320",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "CHAVILLE RIVE GAUCHE"
+    ],
+    "nbAutomates": 2,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.189228436283296,
+    "latitude": 48.80489731189981
+  },
+  {
+    "label": "Chaville - Vélizy",
+    "id": "8739317",
+    "train": false,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "CHAVILLE VELIZY"
+    ],
+    "nbAutomates": 3,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.184449022369839,
+    "latitude": 48.79954704619592
+  },
+  {
+    "label": "Chelles - Gournay",
+    "id": "8711611",
+    "train": true,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "CHELLES GOURNAY"
+    ],
+    "nbAutomates": 4,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.582709500637213,
+    "latitude": 48.87414942148909
+  },
+  {
+    "label": "Chemin d'Antony",
+    "id": "8754631",
+    "train": false,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "CHEMIN D'ANTONY"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.3125795585876,
+    "latitude": 48.74790944795252
+  },
+  {
+    "label": "Chézy-sur-Marne",
+    "id": "8711657",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "CHEZY SUR MARNE"
+    ],
+    "nbAutomates": 0,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 3.364692973125201,
+    "latitude": 48.99193535604067
+  },
+  {
+    "label": "Chilly-Mazarin",
+    "id": "8739363",
+    "train": false,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "CHILLY MAZARIN"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.30763068293776,
+    "latitude": 48.70089336649203
+  },
+  {
+    "label": "Choisy-le-Roi",
+    "id": "8754528",
+    "train": false,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "CHOISY LE ROI"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.412118619716405,
+    "latitude": 48.76258561829652
+  },
+  {
+    "label": "Cité Universitaire",
+    "id": "8775864",
+    "train": false,
+    "rer": true,
+    "tramway": true,
+    "keywords": [
+      "CITE UNIVERSITAIRE"
+    ],
+    "nbAutomates": 0,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.338580749640994,
+    "latitude": 48.82035003325553
+  },
+  {
+    "label": "Clamart",
+    "id": "8739156",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "CLAMART"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.27470749291865,
+    "latitude": 48.814150988803526
+  },
+  {
+    "label": "Clichy - Levallois",
+    "id": "8738112",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "CLICHY LEVALLOIS"
+    ],
+    "nbAutomates": 2,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.294578140575795,
+    "latitude": 48.899222859835106
+  },
+  {
+    "label": "Clichy - Montfermeil",
+    "id": "8770430",
+    "train": false,
+    "rer": false,
+    "tramway": true,
+    "keywords": [
+      "CLICHY MONTFERMEIL"
+    ],
+    "nbAutomates": 0,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "latitude": 48.9045891,
+    "longitude": 2.5549342
+  },
+  {
+    "label": "Clichy-sous-Bois - Mairie",
+    "id": "8770428",
+    "train": false,
+    "rer": false,
+    "tramway": true,
+    "keywords": [
+      "CLICHY SOUS BOIS MAIRIE"
+    ],
+    "nbAutomates": 0,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "latitude": 48.9079,
+    "longitude": 2.54636
+  },
+  {
+    "label": "Coignières",
+    "id": "8739327",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "COIGNIERES"
+    ],
+    "nbAutomates": 2,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 1.921580814767206,
+    "latitude": 48.74379554346642
+  },
+  {
+    "label": "Colombes",
+    "id": "8738108",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "COLOMBES"
+    ],
+    "nbAutomates": 3,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.25954079780269,
+    "latitude": 48.923810540672356
+  },
+  {
+    "label": "Combs-la-Ville - Quincy",
+    "id": "8768214",
+    "train": true,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "COMBS LA VILLE QUINCY"
+    ],
+    "nbAutomates": 3,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.54704224181887,
+    "latitude": 48.66864679123076
+  },
+  {
+    "label": "Compans",
+    "id": "8727204",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "COMPANS"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.665193676704041,
+    "latitude": 48.99145892447891
+  },
+  {
+    "label": "Conflans Fin d'Oise",
+    "id": "8738145",
+    "train": true,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "CONFLANS FIN D'OISE"
+    ],
+    "nbAutomates": 3,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.074582660875173,
+    "latitude": 48.98904473467146
+  },
+  {
+    "label": "Conflans-Sainte-Honorine",
+    "id": "8738189",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "CONFLANS SAINTE HONORINE"
+    ],
+    "nbAutomates": 2,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.094861376826162,
+    "latitude": 48.995800034295925
+  },
+  {
+    "label": "Corbeil-Essonnes",
+    "id": "8768100",
+    "train": false,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "CORBEIL ESSONNES"
+    ],
+    "nbAutomates": 3,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.473782410863145,
+    "latitude": 48.61407088260272
+  },
+  {
+    "label": "Cormeilles-en-Parisis",
+    "id": "8738186",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "CORMEILLES EN PARISIS"
+    ],
+    "nbAutomates": 3,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.193380215177233,
+    "latitude": 48.968388207390454
+  },
+  {
+    "label": "Couilly - Saint-Germain - Quincy",
+    "id": "8711673",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "COUILLY SAINT GERMAIN QUINCY"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.85423876033952,
+    "latitude": 48.88268311019452
+  },
+  {
+    "label": "Coulommiers",
+    "id": "8711630",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "COULOMMIERS"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 3.08196720068987,
+    "latitude": 48.80771929181312
+  },
+  {
+    "label": "Courbevoie",
+    "id": "8738220",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "COURBEVOIE"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.248123472859284,
+    "latitude": 48.898145474333724
+  },
+  {
+    "label": "Courcelle sur Yvette",
+    "id": "8775888",
+    "train": false,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "COURCELLE SUR YVETTE"
+    ],
+    "nbAutomates": 0,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.097975855687465,
+    "latitude": 48.70121772025903
+  },
+  {
+    "label": "Crécy-la-Chapelle",
+    "id": "8711677",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "CRECY LA CHAPELLE"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.905919910824732,
+    "latitude": 48.859470653176814
+  },
+  {
+    "label": "Creil",
+    "id": "8727600",
+    "train": true,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "CREIL"
+    ],
+    "nbAutomates": 0,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.469338512801428,
+    "latitude": 49.26433696531956
+  },
+  {
+    "label": "Crépy-en-Valois",
+    "id": "8727159",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "CREPY EN VALOIS"
+    ],
+    "nbAutomates": 0,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.888407747778651,
+    "latitude": 49.2311545881536
+  },
+  {
+    "label": "Créteil Pompadour",
+    "id": "8760880",
+    "train": false,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "Créteil Pompadour",
+      "CRETEIL POMPADOUR"
+    ],
+    "nbAutomates": 2,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.435515275173952,
+    "latitude": 48.771239125868725
+  },
+  {
+    "label": "Crouy-sur-Ourcq",
+    "id": "8711664",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "CROUY SUR OURCQ"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 3.062942239102605,
+    "latitude": 49.09162143666499
+  },
+  {
+    "label": "Dammartin - Juilly - Saint-Mard",
+    "id": "8727153",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "DAMMARTIN JUILLY SAINT MARD"
+    ],
+    "nbAutomates": 2,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.699105070052551,
+    "latitude": 49.03207156068946
+  },
+  {
+    "label": "Denfert Rochereau",
+    "id": "8775863",
+    "train": false,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "DENFERT ROCHEREAU"
+    ],
+    "nbAutomates": 0,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.33285230996089,
+    "latitude": 48.834292979538596
+  },
+  {
+    "label": "Deuil - Montmagny",
+    "id": "8727634",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "DEUIL MONTMAGNY"
+    ],
+    "nbAutomates": 2,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.337964063426666,
+    "latitude": 48.97567744899804
+  },
+  {
+    "label": "Domont",
+    "id": "8727643",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "DOMONT"
+    ],
+    "nbAutomates": 3,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.337670502334622,
+    "latitude": 49.03280583632308
+  },
+  {
+    "label": "Dordives",
+    "id": "8768423",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "DORDIVES"
+    ],
+    "nbAutomates": 0,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.762535922688357,
+    "latitude": 48.1473164313826
+  },
+  {
+    "label": "Dourdan",
+    "id": "8754552",
+    "train": true,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "DOURDAN"
+    ],
+    "nbAutomates": 2,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.009826148353142,
+    "latitude": 48.533576917580454
+  },
+  {
+    "label": "Dourdan la Forêt",
+    "id": "8754017",
+    "train": false,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "DOURDAN LA FORET"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 1.99656893003959,
+    "latitude": 48.535580626314264
+  },
+  {
+    "label": "Drancy",
+    "id": "8727140",
+    "train": false,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "DRANCY"
+    ],
+    "nbAutomates": 3,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.455728746135323,
+    "latitude": 48.93258830271506
+  },
+  {
+    "label": "Dreux",
+    "id": "8739348",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "DREUX"
+    ],
+    "nbAutomates": 0,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 1.36657308615931,
+    "latitude": 48.72968627977277
+  },
+  {
+    "label": "Dugny - La Courneuve",
+    "id": "8769734",
+    "train": false,
+    "rer": false,
+    "tramway": true,
+    "keywords": [
+      "DUGNY LA COURNEUVE"
+    ],
+    "nbAutomates": 0,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.411335416839308,
+    "latitude": 48.9437182103028
+  },
+  {
+    "label": "Écouen - Ézanville",
+    "id": "8727639",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "ECOUEN EZANVILLE"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.363180961506846,
+    "latitude": 49.02256855914811
+  },
+  {
+    "label": "Égly",
+    "id": "8754547",
+    "train": false,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "EGLY"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.222189294095017,
+    "latitude": 48.58241085152793
+  },
+  {
+    "label": "Émerainville - Pontault-Combault",
+    "id": "8711604",
+    "train": false,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "EMERAINVILLE PONTAULT COMBAULT"
+    ],
+    "nbAutomates": 3,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.617509201759023,
+    "latitude": 48.80640786419705
+  },
+  {
+    "label": "Enghien-les-Bains",
+    "id": "8727602",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "ENGHIEN LES BAINS"
+    ],
+    "nbAutomates": 4,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.306453598474992,
+    "latitude": 48.97323447038807
+  },
+  {
+    "label": "Épinay-sur-Orge",
+    "id": "8754522",
+    "train": false,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "EPINAY SUR ORGE"
+    ],
+    "nbAutomates": 3,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.32963171849958,
+    "latitude": 48.66870545710936
+  },
+  {
+    "label": "Épinay-sur-Seine",
+    "id": "8727114",
+    "train": false,
+    "rer": true,
+    "tramway": true,
+    "keywords": [
+      "EPINAY SUR SEINE"
+    ],
+    "nbAutomates": 2,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.302366002235401,
+    "latitude": 48.95405714495835
+  },
+  {
+    "label": "Épinay - Villetaneuse",
+    "id": "8727112",
+    "train": true,
+    "rer": false,
+    "tramway": true,
+    "keywords": [
+      "EPINAY VILLETANEUSE"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.327103863071399,
+    "latitude": 48.95906011170955
+  },
+  {
+    "label": "Épluches",
+    "id": "8727614",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "EPLUCHES"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.123061762756988,
+    "latitude": 49.05535242750229
+  },
+  {
+    "label": "Épône - Mézières",
+    "id": "8738676",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "EPONE MEZIERES"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 1.811201608702701,
+    "latitude": 48.96343643154164
+  },
+  {
+    "label": "Éragny - Neuville",
+    "id": "8738141",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "ERAGNY NEUVILLE"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.088424625268273,
+    "latitude": 49.01622108934619
+  },
+  {
+    "label": "Ermont - Eaubonne",
+    "id": "8727605",
+    "train": true,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "ERMONT EAUBONNE"
+    ],
+    "nbAutomates": 5,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.270063345810828,
+    "latitude": 48.98087579752103
+  },
+  {
+    "label": "Ermont Halte",
+    "id": "8727658",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "ERMONT HALTE"
+    ],
+    "nbAutomates": 2,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.263186059561745,
+    "latitude": 48.990749444499556
+  },
+  {
+    "label": "Esbly",
+    "id": "8711632",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "ESBLY"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.810621935936422,
+    "latitude": 48.90314285769408
+  },
+  {
+    "label": "Essonnes Robinson",
+    "id": "8768160",
+    "train": false,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "ESSONNES ROBINSON"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.463531122485383,
+    "latitude": 48.60601044388837
+  },
+  {
+    "label": "Étampes",
+    "id": "8754513",
+    "train": true,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "ETAMPES"
+    ],
+    "nbAutomates": 3,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.156512864320726,
+    "latitude": 48.43555264201621
+  },
+  {
+    "label": "Étréchy",
+    "id": "8754514",
+    "train": false,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "ETRECHY"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.19360515789254,
+    "latitude": 48.492275105306405
+  },
+  {
+    "label": "Évry",
+    "id": "8768136",
+    "train": false,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "EVRY Val de Seine"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.452145652339384,
+    "latitude": 48.634608020746256
+  },
+  {
+    "label": "Évry - Courcouronnes",
+    "id": "8768138",
+    "train": false,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "EVRY COURCOURONNES Centre"
+    ],
+    "nbAutomates": 3,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.429374227134183,
+    "latitude": 48.62597794398785
+  },
+  {
+    "label": "Faremoutiers - Pommeuse",
+    "id": "8711627",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "FAREMOUTIERS POMMEUSE"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.993256450830373,
+    "latitude": 48.80860544657548
+  },
+  {
+    "label": "Ferrières - Fontenay",
+    "id": "8768424",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "FERRIERES FONTENAY"
+    ],
+    "nbAutomates": 0,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.77219504594361,
+    "latitude": 48.0965951411846
+  },
+  {
+    "label": "Fontainebleau - Avon",
+    "id": "8768221",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "FONTAINEBLEAU AVON"
+    ],
+    "nbAutomates": 3,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.727200067146435,
+    "latitude": 48.41746394574521
+  },
+  {
+    "label": "Fontaine-le-Port",
+    "id": "8768242",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "FONTAINE LE PORT"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.75122393525311,
+    "latitude": 48.48715805687002
+  },
+  {
+    "label": "Fontaine Michalon",
+    "id": "8775876",
+    "train": false,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "FONTAINE MICHALON"
+    ],
+    "nbAutomates": 0,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.296393157536253,
+    "latitude": 48.74337340108638
+  },
+  {
+    "label": "Fontenay-aux-Roses",
+    "id": "8775871",
+    "train": false,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "FONTENAY AUX ROSES"
+    ],
+    "nbAutomates": 0,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.292492980557762,
+    "latitude": 48.787614679052176
+  },
+  {
+    "label": "Fontenay-le-Fleury",
+    "id": "8739340",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "FONTENAY LE FLEURY"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.041108118681261,
+    "latitude": 48.807151101822356
+  },
+  {
+    "label": "Fontenay-sous-Bois",
+    "id": "8775812",
+    "train": false,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "FONTENAY SOUS BOIS"
+    ],
+    "nbAutomates": 0,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.463708038038903,
+    "latitude": 48.84372026066596
+  },
+  {
+    "label": "Franconville - Le Plessis-Bouchard",
+    "id": "8727607",
+    "train": true,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "FRANCONVILLE LE PLESSIS BOUCHARD"
+    ],
+    "nbAutomates": 3,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.234923357938164,
+    "latitude": 48.993432537959954
+  },
+  {
+    "label": "Freinville Sevran",
+    "id": "8711389",
+    "train": false,
+    "rer": false,
+    "tramway": true,
+    "keywords": [
+      "FREINVILLE SEVRAN"
+    ],
+    "nbAutomates": 0,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.518925053554881,
+    "latitude": 48.92740637167949
+  },
+  {
+    "label": "Frépillon",
+    "id": "8727665",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "FREPILLON"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.197110568848926,
+    "latitude": 49.04606750590012
+  },
+  {
+    "label": "Gagny",
+    "id": "8711351",
+    "train": true,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "GAGNY"
+    ],
+    "nbAutomates": 2,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.526823123557193,
+    "latitude": 48.88328737661553
+  },
+  {
+    "label": "Garancières - La Queue",
+    "id": "8739343",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "GARANCIERES LA QUEUE"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 1.764818944087776,
+    "latitude": 48.810431284633346
+  },
+  {
+    "label": "Garches - Marnes-la-Coquette",
+    "id": "8738225",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "GARCHES MARNES LA COQUETTE"
+    ],
+    "nbAutomates": 2,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.186634102929027,
+    "latitude": 48.837950561666695
+  },
+  {
+    "label": "Gargan",
+    "id": "8711386",
+    "train": false,
+    "rer": false,
+    "tramway": true,
+    "keywords": [
+      "GARGAN"
+    ],
+    "nbAutomates": 0,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.516725418415305,
+    "latitude": 48.90767694852813
+  },
+  {
+    "label": "Gargenville",
+    "id": "8738156",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "GARGENVILLE"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 1.809192458890066,
+    "latitude": 48.983008233963474
+  },
+  {
+    "label": "Garges - Sarcelles",
+    "id": "8727619",
+    "train": false,
+    "rer": true,
+    "tramway": true,
+    "keywords": [
+      "GARGES SARCELLES"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.391164835206995,
+    "latitude": 48.97725713426417
+  },
+  {
+    "label": "Gazeran",
+    "id": "8739334",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "GAZERAN"
+    ],
+    "nbAutomates": 0,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 1.771844196891519,
+    "latitude": 48.62596796469673
+  },
+  {
+    "label": "Gennevilliers",
+    "id": "8727120",
+    "train": false,
+    "rer": true,
+    "tramway": true,
+    "keywords": [
+      "GENNEVILLIERS"
+    ],
+    "nbAutomates": 2,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.307259455389398,
+    "latitude": 48.93386360474658
+  },
+  {
+    "label": "Gentilly",
+    "id": "8775865",
+    "train": false,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "GENTILLY"
+    ],
+    "nbAutomates": 0,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.340891132421861,
+    "latitude": 48.815229935580284
+  },
+  {
+    "label": "Gif-sur-Yvette",
+    "id": "8775887",
+    "train": false,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "GIF SUR YVETTE"
+    ],
+    "nbAutomates": 0,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.13656671705836,
+    "latitude": 48.69819697536674
+  },
+  {
+    "label": "Gisors",
+    "id": "8738124",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "GISORS"
+    ],
+    "nbAutomates": 0,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 1.788108067503834,
+    "latitude": 49.282880431096736
+  },
+  {
+    "label": "Goussainville",
+    "id": "8727624",
+    "train": false,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "GOUSSAINVILLE"
+    ],
+    "nbAutomates": 2,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.464145013775797,
+    "latitude": 49.024352868208844
+  },
+  {
+    "label": "Grand Bourg",
+    "id": "8768135",
+    "train": false,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "GRAND BOURG"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.436442788684933,
+    "latitude": 48.64776920839134
+  },
+  {
+    "label": "Gravigny Balizy",
+    "id": "8739364",
+    "train": false,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "GRAVIGNY BALIZY"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.317930000476833,
+    "latitude": 48.68519000053006
+  },
+  {
+    "label": "Gretz-Armainvilliers",
+    "id": "8711601",
+    "train": false,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "GRETZ ARMAINVILLIERS"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.72930435756889,
+    "latitude": 48.74481144043109
+  },
+  {
+    "label": "Grigny Centre",
+    "id": "8768137",
+    "train": false,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "GRIGNY CENTRE"
+    ],
+    "nbAutomates": 2,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.394129417096676,
+    "latitude": 48.65119762829812
+  },
+  {
+    "label": "Groslay",
+    "id": "8727636",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "GROSLAY"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.353836106473294,
+    "latitude": 48.9844996702509
+  },
+  {
+    "label": "Gros Noyer Saint-Prix",
+    "id": "8727659",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "GROS NOYER SAINT PRIX"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.259094504899251,
+    "latitude": 48.99681837552061
+  },
+  {
+    "label": "Guérard - La Celle-sur-Morin",
+    "id": "8711626",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "GUERARD LA CELLE SUR MORIN"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.954761856629998,
+    "latitude": 48.81043906077055
+  },
+  {
+    "label": "Guillerval",
+    "id": "8754512",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "GUILLERVAL"
+    ],
+    "nbAutomates": 0,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.058978482949175,
+    "latitude": 48.37361195544384
+  },
+  {
+    "label": "Haussmann Saint-Lazare",
+    "id": "8728189",
+    "train": false,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "GARE D'HAUSSMANN SAINT LAZARE",
+      "GARE SAINT LAZARE"
+    ],
+    "nbAutomates": 3,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.330940643873018,
+    "latitude": 48.87495024023002
+  },
+  {
+    "label": "Herblay",
+    "id": "8738188",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "HERBLAY"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.161872775865862,
+    "latitude": 48.990322193724175
+  },
+  {
+    "label": "Héricy",
+    "id": "8768243",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "HERICY"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.760790270292531,
+    "latitude": 48.44270678491386
+  },
+  {
+    "label": "Hôpital de Montfermeil",
+    "id": "8770433",
+    "train": false,
+    "rer": false,
+    "tramway": true,
+    "keywords": [
+      "HOPITAL DE MONTFERMEIL"
+    ],
+    "nbAutomates": 0,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "latitude": 48.9009592,
+    "longitude": 2.5706492
+  },
+  {
+    "label": "Houdan",
+    "id": "8739346",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "HOUDAN"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 1.602775646259152,
+    "latitude": 48.79600087528386
+  },
+  {
+    "label": "Houilles - Carrières-sur-Seine",
+    "id": "8738640",
+    "train": true,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "HOUILLES CARRIERES SUR SEINE"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.184634788783192,
+    "latitude": 48.92078365152306
+  },
+  {
+    "label": "Igny",
+    "id": "8739356",
+    "train": false,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "IGNY"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.231029024422673,
+    "latitude": 48.740122666316715
+  },
+  {
+    "label": "Invalides",
+    "id": "8739303",
+    "train": false,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "INVALIDES"
+    ],
+    "nbAutomates": 2,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.313424355031458,
+    "latitude": 48.86299452148764
+  },
+  {
+    "label": "Isles - Armentières - Congis",
+    "id": "8711661",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "ISLES ARMENTIERES CONGIS"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 3.007121670847977,
+    "latitude": 48.99798873657706
+  },
+  {
+    "label": "Issou - Porcheville",
+    "id": "8738157",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "ISSOU PORCHEVILLE"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 1.785410737905602,
+    "latitude": 48.97925034069754
+  },
+  {
+    "label": "Issy",
+    "id": "8739307",
+    "train": false,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "ISSY"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.259486994204301,
+    "latitude": 48.81996502716657
+  },
+  {
+    "label": "Issy Val de Seine",
+    "id": "8739330",
+    "train": false,
+    "rer": true,
+    "tramway": true,
+    "keywords": [
+      "ISSY VAL DE SEINE"
+    ],
+    "nbAutomates": 2,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.263061548452739,
+    "latitude": 48.829206272653394
+  },
+  {
+    "label": "Ivry-sur-Seine",
+    "id": "8754530",
+    "train": false,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "IVRY SUR SEINE"
+    ],
+    "nbAutomates": 2,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.392955231003297,
+    "latitude": 48.812850332783306
+  },
+  {
+    "label": "Javel",
+    "id": "8739306",
+    "train": false,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "JAVEL"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.276972522624144,
+    "latitude": 48.84624503121708
+  },
+  {
+    "label": "Joinville-le-Pont",
+    "id": "8775814",
+    "train": false,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "JOINVILLE LE PONT"
+    ],
+    "nbAutomates": 0,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.463856795362315,
+    "latitude": 48.8210388141285
+  },
+  {
+    "label": "Jouy-en-Josas",
+    "id": "8739351",
+    "train": false,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "JOUY EN JOSAS"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.163559270505938,
+    "latitude": 48.764748343532396
+  },
+  {
+    "label": "Juvisy",
+    "id": "8754524",
+    "train": false,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "JUVISY"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.38062181723321,
+    "latitude": 48.68848379005439
+  },
+  {
+    "label": "Juziers",
+    "id": "8738155",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "JUZIERS"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 1.845818060945136,
+    "latitude": 48.99220680697608
+  },
+  {
+    "label": "L'Abbaye",
+    "id": "8711388",
+    "train": false,
+    "rer": false,
+    "tramway": true,
+    "keywords": [
+      "L'ABBAYE"
+    ],
+    "nbAutomates": 0,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.516927947616403,
+    "latitude": 48.92233695494781
+  },
+  {
+    "label": "L'Étang-la-Ville",
+    "id": "8738247",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "L'ETANG LA VILLE"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.076815556744504,
+    "latitude": 48.86806807316606
+  },
+  {
+    "label": "L'Isle-Adam - Parmain",
+    "id": "8727652",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "L'ISLE ADAM PARMAIN"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.209820739579246,
+    "latitude": 49.11456640820778
+  },
+  {
+    "label": "La Barre Ormesson",
+    "id": "8727117",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "LA BARRE ORMESSON"
+    ],
+    "nbAutomates": 2,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.315824843537354,
+    "latitude": 48.96687196526681
+  },
+  {
+    "label": "La Borne Blanche",
+    "id": "8727628",
+    "train": false,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "LA BORNE BLANCHE"
+    ],
+    "nbAutomates": 0,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.50625898024577,
+    "latitude": 49.1266367251084
+  },
+  {
+    "label": "La Celle-Saint-Cloud",
+    "id": "8738243",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "LA CELLE SAINT CLOUD"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.138194315944331,
+    "latitude": 48.842665067365125
+  },
+  {
+    "label": "La Courneuve - Aubervilliers",
+    "id": "8727130",
+    "train": false,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "LA COURNEUVE AUBERVILLIERS"
+    ],
+    "nbAutomates": 3,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.38542905782746,
+    "latitude": 48.92407748253208
+  },
+  {
+    "label": "La Croix de Berny",
+    "id": "8775874",
+    "train": false,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "LA CROIX DE BERNY"
+    ],
+    "nbAutomates": 0,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.304227346191481,
+    "latitude": 48.761693689464565
+  },
+  {
+    "label": "La Défense",
+    "id": "8738221",
+    "train": true,
+    "rer": true,
+    "tramway": true,
+    "keywords": [
+      "LA DEFENSE GRANDE ARCHE"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.238471684534599,
+    "latitude": 48.89343723770491
+  },
+  {
+    "label": "La Ferté-Alais",
+    "id": "8768145",
+    "train": false,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "LA FERTE ALAIS"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.352035820662094,
+    "latitude": 48.48477733181462
+  },
+  {
+    "label": "La Ferté-Milon",
+    "id": "8711667",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "LA FERTE MILON"
+    ],
+    "nbAutomates": 0,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 3.120822729407744,
+    "latitude": 49.17960194716914
+  },
+  {
+    "label": "La Ferté-sous-Jouarre",
+    "id": "8711651",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "LA FERTE SOUS JOUARRE"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 3.125913137284532,
+    "latitude": 48.950957378630235
+  },
+  {
+    "label": "La Frette - Montigny",
+    "id": "8738187",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "LA FRETTE MONTIGNY"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.180065905880359,
+    "latitude": 48.98019761511587
+  },
+  {
+    "label": "La Garenne-Colombes",
+    "id": "8738600",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "LA GARENNE COLOMBES"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.234105309830956,
+    "latitude": 48.90749290398028
+  },
+  {
+    "label": "Lagny - Thorigny",
+    "id": "8711631",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "LAGNY THORIGNY"
+    ],
+    "nbAutomates": 2,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.70396715179194,
+    "latitude": 48.88211331373947
+  },
+  {
+    "label": "La Grande-Paroisse",
+    "id": "8768247",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "LA GRANDE PAROISSE"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.897226810098953,
+    "latitude": 48.37876500728777
+  },
+  {
+    "label": "La Hacquinière",
+    "id": "8775886",
+    "train": false,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "LA HACQUINIERE"
+    ],
+    "nbAutomates": 0,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.15164203862357,
+    "latitude": 48.695264121172805
+  },
+  {
+    "label": "La Norville - Saint-Germain-lès-Arpajon",
+    "id": "8754545",
+    "train": false,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "LA NORVILLE SAINT GERMAIN LES ARPAJON"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.267487134649648,
+    "latitude": 48.591691751296445
+  },
+  {
+    "label": "Laplace",
+    "id": "8775866",
+    "train": false,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "LAPLACE"
+    ],
+    "nbAutomates": 0,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.334354306939409,
+    "latitude": 48.808296585882914
+  },
+  {
+    "label": "La Plaine Stade de France - Saint-Denis - Aubervilliers",
+    "id": "8716479",
+    "train": false,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "LA PLAINE STADE DE FRANCE SAINT DENIS AUBERVILLIERS"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.362965044158142,
+    "latitude": 48.918255958873715
+  },
+  {
+    "label": "Lardy",
+    "id": "8754516",
+    "train": false,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "LARDY"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.253571152085942,
+    "latitude": 48.519964986339474
+  },
+  {
+    "label": "La Varenne - Chennevières",
+    "id": "8775818",
+    "train": false,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "LA VARENNE CHENNEVIERES"
+    ],
+    "nbAutomates": 0,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.513423299545895,
+    "latitude": 48.7953838346856
+  },
+  {
+    "label": "La Verrière",
+    "id": "8739325",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "LA VERRIERE"
+    ],
+    "nbAutomates": 4,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 1.94386690800612,
+    "latitude": 48.75545694012282
+  },
+  {
+    "label": "Lavilletertre",
+    "id": "8738120",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "LA VILLETERTRE",
+      "LAVILLETERTRE"
+    ],
+    "nbAutomates": 0,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 1.920731577030679,
+    "latitude": 49.20261024930564
+  },
+  {
+    "label": "Le Blanc-Mesnil",
+    "id": "8727147",
+    "train": false,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "LE BLANC MESNIL"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.477352075523793,
+    "latitude": 48.93214794166505
+  },
+  {
+    "label": "Le Bourget",
+    "id": "8727139",
+    "train": false,
+    "rer": true,
+    "tramway": true,
+    "keywords": [
+      "LE BOURGET"
+    ],
+    "nbAutomates": 4,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.426674011457214,
+    "latitude": 48.93079100023168
+  },
+  {
+    "label": "Le Bras de Fer",
+    "id": "8768139",
+    "train": false,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "LE BRAS DE FER Evry Génopole"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.450788308794665,
+    "latitude": 48.623293631298566
+  },
+  {
+    "label": "Le Chénay Gagny",
+    "id": "8711352",
+    "train": true,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "LE CHENAY GAGNY"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.553527019926075,
+    "latitude": 48.87705130494008
+  },
+  {
+    "label": "Le Coudray-Montceaux",
+    "id": "8768163",
+    "train": false,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "LE COUDRAY MONTCEAUX"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.492520676729849,
+    "latitude": 48.56615723437016
+  },
+  {
+    "label": "Le Guichet",
+    "id": "8775883",
+    "train": false,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "LE GUICHET"
+    ],
+    "nbAutomates": 0,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.192734884806756,
+    "latitude": 48.7054039238503
+  },
+  {
+    "label": "Le Mée",
+    "id": "8768217",
+    "train": true,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "LE MEE"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.622362332021146,
+    "latitude": 48.54106553995727
+  },
+  {
+    "label": "Léon Blum",
+    "id": "8770426",
+    "train": false,
+    "rer": false,
+    "tramway": true,
+    "keywords": [
+      "LEON BLUM"
+    ],
+    "nbAutomates": 0,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.5407,
+    "latitude": 48.9071
+  },
+  {
+    "label": "Le Parc de Saint-Maur",
+    "id": "8775816",
+    "train": false,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "LE PARC DE SAINT MAUR"
+    ],
+    "nbAutomates": 0,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.486349748779074,
+    "latitude": 48.80537766122676
+  },
+  {
+    "label": "Le Perray",
+    "id": "8739329",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "LE PERRAY"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 1.856482220506106,
+    "latitude": 48.69298365102392
+  },
+  {
+    "label": "Le Plessis-Belleville",
+    "id": "8727155",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "LE PLESSIS BELLEVILLE"
+    ],
+    "nbAutomates": 0,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.744696378860963,
+    "latitude": 49.09594984152633
+  },
+  {
+    "label": "Le Plessis Chenet",
+    "id": "8768162",
+    "train": false,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "LE PLESSIS CHENET"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.479575387206125,
+    "latitude": 48.573786219925275
+  },
+  {
+    "label": "Le Raincy - Villemomble - Montfermeil",
+    "id": "8711347",
+    "train": true,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "LE RAINCY VILLEMOMBLE MONTFERMEIL"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.512558758919036,
+    "latitude": 48.889144189236625
+  },
+  {
+    "label": "Les Ardoines",
+    "id": "8749210",
+    "train": false,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "LES ARDOINES"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.409733390091427,
+    "latitude": 48.78101578405993
+  },
+  {
+    "label": "Les Baconnets",
+    "id": "8775877",
+    "train": false,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "LES BACONNETS"
+    ],
+    "nbAutomates": 0,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.287667495450805,
+    "latitude": 48.7396810424949
+  },
+  {
+    "label": "Les Boullereaux Champigny",
+    "id": "8711377",
+    "train": false,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "LES BOULLEREAUX CHAMPIGNY"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.511980695090771,
+    "latitude": 48.82479774009975
+  },
+  {
+    "label": "Les Clairières de Verneuil",
+    "id": "8738666",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "LES CLAIRIERES DE VERNEUIL"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 1.960422644992241,
+    "latitude": 48.99124033138956
+  },
+  {
+    "label": "Les Coquetiers",
+    "id": "8711384",
+    "train": false,
+    "rer": false,
+    "tramway": true,
+    "keywords": [
+      "LES COQUETIERS"
+    ],
+    "nbAutomates": 0,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.498467846586029,
+    "latitude": 48.89231807239319
+  },
+  {
+    "label": "Les Essarts-le-Roi",
+    "id": "8739328",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "LES ESSARTS LE ROI"
+    ],
+    "nbAutomates": 2,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 1.890075166617603,
+    "latitude": 48.72190567336512
+  },
+  {
+    "label": "Les Grésillons",
+    "id": "8727214",
+    "train": false,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "LES GRESILLONS"
+    ],
+    "nbAutomates": 2,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.314073814725131,
+    "latitude": 48.92011985084626
+  },
+  {
+    "label": "Les Mureaux",
+    "id": "8738668",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "LES MUREAUX"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 1.922885377248166,
+    "latitude": 48.99531532894115
+  },
+  {
+    "label": "Les Noues",
+    "id": "8727623",
+    "train": false,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "LES NOUES"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.47855126231612,
+    "latitude": 49.03342753849726
+  },
+  {
+    "label": "Les Pavillons-sous-Bois",
+    "id": "8711385",
+    "train": false,
+    "rer": false,
+    "tramway": true,
+    "keywords": [
+      "LES PAVILLONS SOUS BOIS"
+    ],
+    "nbAutomates": 0,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.511519862741442,
+    "latitude": 48.90224501559741
+  },
+  {
+    "label": "Les Saules",
+    "id": "8754622",
+    "train": false,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "LES SAULES"
+    ],
+    "nbAutomates": 2,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.417557384233158,
+    "latitude": 48.744859739009286
+  },
+  {
+    "label": "Le Stade",
+    "id": "8738109",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "LE STADE"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.260643405302341,
+    "latitude": 48.931185166611584
+  },
+  {
+    "label": "Les Vallées",
+    "id": "8738630",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "LES VALLEES"
+    ],
+    "nbAutomates": 3,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.251537062381626,
+    "latitude": 48.91307660394924
+  },
+  {
+    "label": "Les Yvris Noisy-le-Grand",
+    "id": "8711380",
+    "train": false,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "LES YVRIS NOISY LE GRAND"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.579204206954621,
+    "latitude": 48.82348530363406
+  },
+  {
+    "label": "Le Val d'Or",
+    "id": "8738236",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "LE VAL D'OR"
+    ],
+    "nbAutomates": 2,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.216607395910575,
+    "latitude": 48.85691460436024
+  },
+  {
+    "label": "Le Vert de Maisons",
+    "id": "8768124",
+    "train": false,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "LE VERT DE MAISONS"
+    ],
+    "nbAutomates": 2,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.432377715308212,
+    "latitude": 48.7881152899235
+  },
+  {
+    "label": "Le Vésinet Centre",
+    "id": "8775807",
+    "train": false,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "LE VESINET CENTRE"
+    ],
+    "nbAutomates": 0,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.134600875228716,
+    "latitude": 48.8900862346195
+  },
+  {
+    "label": "Le Vésinet - Le Pecq",
+    "id": "8775808",
+    "train": false,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "LE VESINET LE PECQ"
+    ],
+    "nbAutomates": 0,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.122117447472966,
+    "latitude": 48.897973445402116
+  },
+  {
+    "label": "Liancourt-Saint-Pierre",
+    "id": "8738121",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "LIANCOURT SAINT PIERRE"
+    ],
+    "nbAutomates": 0,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 1.905540770738303,
+    "latitude": 49.22057380079402
+  },
+  {
+    "label": "Lieusaint - Moissy",
+    "id": "8768215",
+    "train": true,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "LIEUSAINT MOISSY"
+    ],
+    "nbAutomates": 3,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.569445631919197,
+    "latitude": 48.629860586103916
+  },
+  {
+    "label": "Limay",
+    "id": "8738158",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "LIMAY"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 1.747299431394006,
+    "latitude": 48.984242390536664
+  },
+  {
+    "label": "Livry-sur-Seine",
+    "id": "8768240",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "LIVRY SUR SEINE"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.678950684970236,
+    "latitude": 48.51037289873945
+  },
+  {
+    "label": "Lizy-sur-Ourcq",
+    "id": "8711663",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "LIZY SUR OURCQ"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 3.031864920341824,
+    "latitude": 49.02179218810581
+  },
+  {
+    "label": "Lognes",
+    "id": "8775836",
+    "train": false,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "LOGNES"
+    ],
+    "nbAutomates": 0,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.633210913417632,
+    "latitude": 48.83921929901705
+  },
+  {
+    "label": "Longjumeau",
+    "id": "8739361",
+    "train": false,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "LONGJUMEAU"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.293143129552544,
+    "latitude": 48.702569507496214
+  },
+  {
+    "label": "Longueville",
+    "id": "8711613",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "LONGUEVILLE"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 3.248786566166764,
+    "latitude": 48.514782273818554
+  },
+  {
+    "label": "Louveciennes",
+    "id": "8738245",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "LOUVECIENNES"
+    ],
+    "nbAutomates": 2,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.123170163283053,
+    "latitude": 48.861210380239655
+  },
+  {
+    "label": "Louvres",
+    "id": "8727625",
+    "train": false,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "LOUVRES"
+    ],
+    "nbAutomates": 2,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.502681038602271,
+    "latitude": 49.04998445076471
+  },
+  {
+    "label": "Lozère",
+    "id": "8775882",
+    "train": false,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "LOZERE"
+    ],
+    "nbAutomates": 0,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.212262378017492,
+    "latitude": 48.705968983887125
+  },
+  {
+    "label": "Luxembourg",
+    "id": "8775861",
+    "train": false,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "LUXEMBOURG"
+    ],
+    "nbAutomates": 0,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.339927999715897,
+    "latitude": 48.845743072291256
+  },
+  {
+    "label": "Luzarches",
+    "id": "8727657",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "LUZARCHES"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.421561278801477,
+    "latitude": 49.11770271668709
+  },
+  {
+    "label": "Lycée Henri Sellier",
+    "id": "8798871",
+    "train": false,
+    "rer": false,
+    "tramway": true,
+    "keywords": [
+      "LYCEE HENRI SELLIER"
+    ],
+    "nbAutomates": 0,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.515624361772269,
+    "latitude": 48.91454184271352
+  },
+  {
+    "label": "Magenta",
+    "id": "8728187",
+    "train": false,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "MAGENTA"
+    ],
+    "nbAutomates": 4,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.358372303710827,
+    "latitude": 48.880337247960775
+  },
+  {
+    "label": "Maisons-Alfort - Alfortville",
+    "id": "8768115",
+    "train": false,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "MAISONS ALFORT ALFORTVILLE"
+    ],
+    "nbAutomates": 3,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.426834358754884,
+    "latitude": 48.80170287114752
+  },
+  {
+    "label": "Maisons-Laffitte",
+    "id": "8738642",
+    "train": true,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "MAISONS LAFFITTE"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.14473523437646,
+    "latitude": 48.94558447506499
+  },
+  {
+    "label": "Maisse",
+    "id": "8768148",
+    "train": false,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "MAISSE"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.393061282260811,
+    "latitude": 48.393174013107334
+  },
+  {
+    "label": "Malesherbes",
+    "id": "8768441",
+    "train": false,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "MALESHERBES"
+    ],
+    "nbAutomates": 0,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.40099439248392,
+    "latitude": 48.29341001336288
+  },
+  {
+    "label": "Mantes-la-Jolie",
+    "id": "8738150",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "MANTES LA JOLIE"
+    ],
+    "nbAutomates": 3,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 1.703938722931357,
+    "latitude": 48.98941752668638
+  },
+  {
+    "label": "Mantes Station",
+    "id": "8738159",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "MANTES STATION"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 1.715737202768139,
+    "latitude": 48.983359638519275
+  },
+  {
+    "label": "Marchezais - Broué",
+    "id": "8739347",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "MARCHEZAIS BROUE"
+    ],
+    "nbAutomates": 0,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 1.513661379138585,
+    "latitude": 48.7683066391684
+  },
+  {
+    "label": "Mareil-Marly",
+    "id": "8738281",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "MAREIL MARLY"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.079043720705496,
+    "latitude": 48.88079697768339
+  },
+  {
+    "label": "Mareil-sur-Mauldre",
+    "id": "8738171",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "MAREIL SUR MAULDRE"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 1.871552843730546,
+    "latitude": 48.8936706358685
+  },
+  {
+    "label": "Mareuil-sur-Ourcq",
+    "id": "8711666",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "MAREUIL SUR OURCQ"
+    ],
+    "nbAutomates": 0,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 3.075701654777109,
+    "latitude": 49.13564457102928
+  },
+  {
+    "label": "Marles-en-Brie",
+    "id": "8711622",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "MARLES EN BRIE"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.867879658401937,
+    "latitude": 48.73421090942715
+  },
+  {
+    "label": "Marly-le-Roi",
+    "id": "8738246",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "MARLY LE ROI"
+    ],
+    "nbAutomates": 2,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.096708277199224,
+    "latitude": 48.871454152794996
+  },
+  {
+    "label": "Marne-la-Vallée Chessy",
+    "id": "8775499",
+    "train": false,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "MARNE LA VALLEE CHESSY"
+    ],
+    "nbAutomates": 0,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.782226723449036,
+    "latitude": 48.869950134005364
+  },
+  {
+    "label": "Marolles-en-Hurepoix",
+    "id": "8754518",
+    "train": false,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "MAROLLES EN HUREPOIX"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.291189878826282,
+    "latitude": 48.56353449595023
+  },
+  {
+    "label": "Massy - Palaiseau",
+    "id": "8739357",
+    "train": false,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "MASSY PALAISEAU"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.263746454477757,
+    "latitude": 48.72987680899496
+  },
+  {
+    "label": "Massy - Verrières",
+    "id": "8738328",
+    "train": false,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "MASSY VERRIERES"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.273364204660052,
+    "latitude": 48.73477965839577
+  },
+  {
+    "label": "Maule",
+    "id": "8738172",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "MAULE"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 1.857318343026776,
+    "latitude": 48.909242714227815
+  },
+  {
+    "label": "Maurecourt",
+    "id": "8738148",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "MAURECOURT"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.059879943892542,
+    "latitude": 48.987078613205306
+  },
+  {
+    "label": "Maurice Audin",
+    "id": "8770427",
+    "train": false,
+    "rer": false,
+    "tramway": true,
+    "keywords": [
+      "MAURICE AUDIN"
+    ],
+    "nbAutomates": 0,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "latitude": 48.9084471,
+    "longitude": 2.539217
+  },
+  {
+    "label": "Meaux",
+    "id": "8711610",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "MEAUX"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.873403753140162,
+    "latitude": 48.95683307565232
+  },
+  {
+    "label": "Melun",
+    "id": "8768200",
+    "train": true,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "MELUN"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.653351571923359,
+    "latitude": 48.527847951884176
+  },
+  {
+    "label": "Mennecy",
+    "id": "8768141",
+    "train": false,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "MENNECY"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.433268053440552,
+    "latitude": 48.57113280817187
+  },
+  {
+    "label": "Mériel",
+    "id": "8727667",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "MERIEL"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.205014084606336,
+    "latitude": 49.0772421084486
+  },
+  {
+    "label": "Méry-sur-Oise",
+    "id": "8727666",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "MERY SUR OISE"
+    ],
+    "nbAutomates": 2,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.190803921925722,
+    "latitude": 49.05742573932811
+  },
+  {
+    "label": "Meudon",
+    "id": "8739310",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "MEUDON"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.240875380902561,
+    "latitude": 48.81480083229521
+  },
+  {
+    "label": "Meudon Val Fleury",
+    "id": "8739308",
+    "train": false,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "MEUDON VAL FLEURY"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.241247259528088,
+    "latitude": 48.80787932421281
+  },
+  {
+    "label": "Meulan - Hardricourt",
+    "id": "8738183",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "MEULAN HARDRICOURT"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 1.901980044049688,
+    "latitude": 49.00576758290243
+  },
+  {
+    "label": "Mitry - Claye",
+    "id": "8727152",
+    "train": true,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "MITRY CLAYE"
+    ],
+    "nbAutomates": 2,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.642349425917973,
+    "latitude": 48.97575440310002
+  },
+  {
+    "label": "Monnerville",
+    "id": "8754511",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "MONNERVILLE"
+    ],
+    "nbAutomates": 0,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.031020422674964,
+    "latitude": 48.347252262438936
+  },
+  {
+    "label": "Montargis",
+    "id": "8768400",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "MONTARGIS"
+    ],
+    "nbAutomates": 0,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.743101065487438,
+    "latitude": 48.00692235348153
+  },
+  {
+    "label": "Montereau",
+    "id": "8768230",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "MONTEREAU"
+    ],
+    "nbAutomates": 3,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.936172695473762,
+    "latitude": 48.380062575084864
+  },
+  {
+    "label": "Montfort-l'Amaury - Méré",
+    "id": "8739389",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "MONTFORT L'AMAURY MERE"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 1.815590858818974,
+    "latitude": 48.802738230652054
+  },
+  {
+    "label": "Montgeron - Crosne",
+    "id": "8768210",
+    "train": true,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "MONTGERON CROSNE"
+    ],
+    "nbAutomates": 3,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.460602648420521,
+    "latitude": 48.709077058336696
+  },
+  {
+    "label": "Montgeroult - Courcelles",
+    "id": "8738116",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "MONTGEROULT COURCELLES"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.003781236555363,
+    "latitude": 49.0804673352717
+  },
+  {
+    "label": "Montigny - Beauchamp",
+    "id": "8727608",
+    "train": true,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "MONTIGNY BEAUCHAMP"
+    ],
+    "nbAutomates": 4,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.197940799961354,
+    "latitude": 49.007331978947846
+  },
+  {
+    "label": "Montigny-sur-Loing",
+    "id": "8768410",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "MONTIGNY SUR LOING"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.738557831181098,
+    "latitude": 48.33644815329423
+  },
+  {
+    "label": "Montreuil",
+    "id": "8738287",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "MONTREUIL"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.15132568052432,
+    "latitude": 48.806465799538934
+  },
+  {
+    "label": "Montry - Condé",
+    "id": "8711640",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "MONTRY CONDE"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.826401469990249,
+    "latitude": 48.89084863209177
+  },
+  {
+    "label": "Montsoult - Maffliers",
+    "id": "8727649",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "MONTSOULT MAFFLIERS"
+    ],
+    "nbAutomates": 2,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.327735885315031,
+    "latitude": 49.06846707857572
+  },
+  {
+    "label": "Moret - Veneux-les-Sablons",
+    "id": "8768227",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "MORET VENEUX LES SABLONS"
+    ],
+    "nbAutomates": 2,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.799312433561004,
+    "latitude": 48.37809139318291
+  },
+  {
+    "label": "Mormant",
+    "id": "8711608",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "MORMANT"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.889119774346101,
+    "latitude": 48.61361367341845
+  },
+  {
+    "label": "Mortcerf",
+    "id": "8711624",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "MORTCERF"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.907528503637124,
+    "latitude": 48.789121503903154
+  },
+  {
+    "label": "Moulin Galant",
+    "id": "8768140",
+    "train": false,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "MOULIN GALANT"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.473539962733294,
+    "latitude": 48.58616345487804
+  },
+  {
+    "label": "Mouroux",
+    "id": "8711628",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "MOUROUX"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 3.044047451591068,
+    "latitude": 48.81347015023518
+  },
+  {
+    "label": "Musée d'Orsay",
+    "id": "8754730",
+    "train": false,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "MUSEE D'ORSAY"
+    ],
+    "nbAutomates": 2,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.328549939017303,
+    "latitude": 48.85993118576402
+  },
+  {
+    "label": "Nangis",
+    "id": "8711609",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "NANGIS"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 3.012973972585151,
+    "latitude": 48.561264266580295
+  },
+  {
+    "label": "Nanterre Préfecture",
+    "id": "8775802",
+    "train": false,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "NANTERRE PREFECTURE"
+    ],
+    "nbAutomates": 0,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.223212967029376,
+    "latitude": 48.89574531116352
+  },
+  {
+    "label": "Nanterre Université",
+    "id": "8738631",
+    "train": true,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "NANTERRE UNIVERSITE"
+    ],
+    "nbAutomates": 3,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.207658698986693,
+    "latitude": 48.89912157677641
+  },
+  {
+    "label": "Nanterre Ville",
+    "id": "8775804",
+    "train": false,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "NANTERRE VILLE"
+    ],
+    "nbAutomates": 0,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.1953639869129,
+    "latitude": 48.89512589040026
+  },
+  {
+    "label": "Nanteuil-le-Haudouin",
+    "id": "8727157",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "NANTEUIL LE HAUDOUIN"
+    ],
+    "nbAutomates": 0,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.793984979261508,
+    "latitude": 49.142367029219045
+  },
+  {
+    "label": "Nanteuil - Saâcy",
+    "id": "8711655",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "NANTEUIL SAACY"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 3.220217021680595,
+    "latitude": 48.9739617204389
+  },
+  {
+    "label": "Nation",
+    "id": "8775810",
+    "train": false,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "NATION"
+    ],
+    "nbAutomates": 0,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.395823588826125,
+    "latitude": 48.848237109475654
+  },
+  {
+    "label": "Nemours - Saint-Pierre",
+    "id": "8768412",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "NEMOURS SAINT PIERRE"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.685589778050997,
+    "latitude": 48.26782830861583
+  },
+  {
+    "label": "Neuilly-Plaisance",
+    "id": "8775831",
+    "train": false,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "NEUILLY PLAISANCE"
+    ],
+    "nbAutomates": 0,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.513825291026662,
+    "latitude": 48.85348571204233
+  },
+  {
+    "label": "Neuilly Porte Maillot",
+    "id": "8738102",
+    "train": false,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "NEUILLY PORTE MAILLOT Palais des Congrès"
+    ],
+    "nbAutomates": 2,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.284261968692842,
+    "latitude": 48.877868461552744
+  },
+  {
+    "label": "Neuville Université",
+    "id": "8733448",
+    "train": true,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "NEUVILLE UNIVERSITE"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.078363401418651,
+    "latitude": 49.014391328537435
+  },
+  {
+    "label": "Nézel - Aulnay",
+    "id": "8738173",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "NEZEL AULNAY"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 1.840531230379277,
+    "latitude": 48.93870704903866
+  },
+  {
+    "label": "Nogent-L'Artaud - Charly",
+    "id": "8711656",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "NOGENT L'ARTAUD CHARLY"
+    ],
+    "nbAutomates": 0,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 3.322361564902094,
+    "latitude": 48.96865518202849
+  },
+  {
+    "label": "Nogent - Le Perreux",
+    "id": "8711374",
+    "train": false,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "NOGENT LE PERREUX"
+    ],
+    "nbAutomates": 2,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.494108133058532,
+    "latitude": 48.83860766844219
+  },
+  {
+    "label": "Nogent-sur-Marne",
+    "id": "8775813",
+    "train": false,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "NOGENT SUR MARNE"
+    ],
+    "nbAutomates": 0,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.471681241208739,
+    "latitude": 48.83428889795555
+  },
+  {
+    "label": "Nointel - Mours",
+    "id": "8727675",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "NOINTEL MOURS"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.280531071997478,
+    "latitude": 49.13259144140239
+  },
+  {
+    "label": "Noisiel",
+    "id": "8775835",
+    "train": false,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "NOISIEL"
+    ],
+    "nbAutomates": 0,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.615952488501647,
+    "latitude": 48.84349164781152
+  },
+  {
+    "label": "Noisy - Champs",
+    "id": "8775834",
+    "train": false,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "NOISY CHAMPS"
+    ],
+    "nbAutomates": 0,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.580085911974356,
+    "latitude": 48.84288483988904
+  },
+  {
+    "label": "Noisy-le-Grand Mont d'Est",
+    "id": "8775833",
+    "train": false,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "NOISY LE GRAND MONT D'EST"
+    ],
+    "nbAutomates": 0,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.547775189299494,
+    "latitude": 48.84084343092026
+  },
+  {
+    "label": "Noisy-le-Roi",
+    "id": "8739387",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "NOISY LE ROI"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.061649080341157,
+    "latitude": 48.84149086039971
+  },
+  {
+    "label": "Noisy-le-Sec",
+    "id": "8711321",
+    "train": true,
+    "rer": true,
+    "tramway": true,
+    "keywords": [
+      "NOISY LE SEC"
+    ],
+    "nbAutomates": 5,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.45992179728448,
+    "latitude": 48.89675042911374
+  },
+  {
+    "label": "Notre-Dame-des-Anges",
+    "id": "8770431",
+    "train": false,
+    "rer": false,
+    "tramway": true,
+    "keywords": [
+      "NOTRE DAME DES ANGES"
+    ],
+    "nbAutomates": 0,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "latitude": 48.9009648,
+    "longitude": 2.5560441
+  },
+  {
+    "label": "Orangis Bois de l'Épine",
+    "id": "8768134",
+    "train": false,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "ORANGIS BOIS DE L'EPINE"
+    ],
+    "nbAutomates": 2,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.409758980034193,
+    "latitude": 48.636334977979025
+  },
+  {
+    "label": "Orgerus - Béhoust",
+    "id": "8739344",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "ORGERUS BEHOUST"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 1.70291051477214,
+    "latitude": 48.82662235467239
+  },
+  {
+    "label": "Orly Ville",
+    "id": "8754620",
+    "train": false,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "ORLY VILLE"
+    ],
+    "nbAutomates": 2,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.402820407708256,
+    "latitude": 48.74190927176978
+  },
+  {
+    "label": "Ormoy-Villers",
+    "id": "8727158",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "ORMOY VILLERS"
+    ],
+    "nbAutomates": 0,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.837270197544007,
+    "latitude": 49.20030985584815
+  },
+  {
+    "label": "Orry-la-Ville - Coye",
+    "id": "8727627",
+    "train": true,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "ORRY LA VILLE COYE LA FORET"
+    ],
+    "nbAutomates": 0,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.489245364728153,
+    "latitude": 49.13934197598411
+  },
+  {
+    "label": "Orsay Ville",
+    "id": "8775884",
+    "train": false,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "ORSAY VILLE"
+    ],
+    "nbAutomates": 0,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.181054437696622,
+    "latitude": 48.6975056689594
+  },
+  {
+    "label": "Osny",
+    "id": "8738114",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "OSNY"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.05788773368052,
+    "latitude": 49.062936472512014
+  },
+  {
+    "label": "Ozoir-la-Ferrière",
+    "id": "8711602",
+    "train": false,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "OZOIR LA FERRIERE"
+    ],
+    "nbAutomates": 2,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.69037988331879,
+    "latitude": 48.770613142466054
+  },
+  {
+    "label": "Palaiseau",
+    "id": "8775880",
+    "train": false,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "PALAISEAU"
+    ],
+    "nbAutomates": 0,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.245672514581905,
+    "latitude": 48.716946286650035
+  },
+  {
+    "label": "Palaiseau - Villebon",
+    "id": "8775881",
+    "train": false,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "PALAISEAU VILLEBON"
+    ],
+    "nbAutomates": 0,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.237314364639455,
+    "latitude": 48.70814058271019
+  },
+  {
+    "label": "Pantin",
+    "id": "8711320",
+    "train": true,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "PANTIN"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.400433570791011,
+    "latitude": 48.898081816083256
+  },
+  {
+    "label": "Parc de Sceaux",
+    "id": "8775873",
+    "train": false,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "PARC DE SCEAUX"
+    ],
+    "nbAutomates": 0,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.310205451875208,
+    "latitude": 48.770721992579396
+  },
+  {
+    "label": "Parc des Expositions",
+    "id": "8727148",
+    "train": false,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "PARC DES EXPOSITIONS"
+    ],
+    "nbAutomates": 12,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.514359685972242,
+    "latitude": 48.9733203563074
+  },
+  {
+    "label": "Paris Austerlitz",
+    "id": "8754702",
+    "train": true,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "GARE DE PARIS AUSTERLITZ",
+      "GARE D'AUSTERLITZ"
+    ],
+    "nbAutomates": 3,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.367037639567501,
+    "latitude": 48.84049521424752
+  },
+  {
+    "label": "Paris Bercy Bourgogne - Pays d'Auvergne",
+    "id": "8768666",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "PARIS BERCY (GARE DE BERCY)",
+      "PARIS BERCY BOURGOGNE PAYS D'AUVERGNE"
+    ],
+    "nbAutomates": 0,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.385020824629119,
+    "latitude": 48.840056742386324
+  },
+  {
+    "label": "Paris Est",
+    "id": "8711300",
+    "train": true,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "GARE DE PARIS EST",
+      "GARE DE L'EST"
+    ],
+    "nbAutomates": 2,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.358926108129062,
+    "latitude": 48.87737087354009
+  },
+  {
+    "label": "Paris Gare de Lyon",
+    "id": "8768603",
+    "train": true,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "PARIS GARE DE LYON"
+    ],
+    "nbAutomates": 3,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.375645285904874,
+    "latitude": 48.84431152436104
+  },
+  {
+    "label": "Paris Gare du Nord",
+    "id": "8727103",
+    "train": true,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "GARE DE PARIS NORD",
+      "GARE DU NORD",
+      "PARIS GARE DU NORD"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.356160022572003,
+    "latitude": 48.88164194198079
+  },
+  {
+    "label": "Paris Montparnasse",
+    "id": "8739100",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "GARE DE PARIS MONTPARNASSE",
+      "GARE DE MONTPARNASSE"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.319820501512475,
+    "latitude": 48.84064284370186
+  },
+  {
+    "label": "Paris Saint-Lazare",
+    "id": "8738400",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "GARE DE PARIS SAINT LAZARE",
+      "GARE DE SAINT LAZARE",
+      "GARE SAINT LAZARE"
+    ],
+    "nbAutomates": 30,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.326303315694158,
+    "latitude": 48.87693884103283
+  },
+  {
+    "label": "Péreire Levallois",
+    "id": "8738101",
+    "train": false,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "PEREIRE LEVALLOIS"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.297972634967636,
+    "latitude": 48.885271892349444
+  },
+  {
+    "label": "Persan - Beaumont",
+    "id": "8727646",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "PERSAN BEAUMONT"
+    ],
+    "nbAutomates": 2,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.2787859638815,
+    "latitude": 49.14827872914821
+  },
+  {
+    "label": "Petit Jouy Les Loges",
+    "id": "8739350",
+    "train": false,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "PETIT JOUY LES LOGES"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.146851066296696,
+    "latitude": 48.77040097495269
+  },
+  {
+    "label": "Petit Vaux",
+    "id": "8739365",
+    "train": false,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "PETIT VAUX"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.333843147713278,
+    "latitude": 48.676065308909145
+  },
+  {
+    "label": "Pierrefitte - Stains",
+    "id": "8727116",
+    "train": false,
+    "rer": true,
+    "tramway": true,
+    "keywords": [
+      "PIERREFITTE STAINS"
+    ],
+    "nbAutomates": 2,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.373001354559722,
+    "latitude": 48.96437437461674
+  },
+  {
+    "label": "Pierrelaye",
+    "id": "8727609",
+    "train": true,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "PIERRELAYE"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.153765360895035,
+    "latitude": 49.019370518636116
+  },
+  {
+    "label": "Plaisir - Grignon",
+    "id": "8739342",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "PLAISIR GRIGNON"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 1.941465946324533,
+    "latitude": 48.832128140387084
+  },
+  {
+    "label": "Plaisir - Les Clayes",
+    "id": "8739362",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "PLAISIR LES CLAYES"
+    ],
+    "nbAutomates": 2,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 1.957493331910228,
+    "latitude": 48.830997705038726
+  },
+  {
+    "label": "Poissy",
+    "id": "8738657",
+    "train": true,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "POISSY"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.041007984644009,
+    "latitude": 48.933188258370805
+  },
+  {
+    "label": "Pont Cardinet",
+    "id": "8738111",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "PONT CARDINET"
+    ],
+    "nbAutomates": 2,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.314726585480233,
+    "latitude": 48.88786803138204
+  },
+  {
+    "label": "Pont de l'Alma",
+    "id": "8739304",
+    "train": false,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "PONT DE L'ALMA"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.300381827113453,
+    "latitude": 48.86246272798137
+  },
+  {
+    "label": "Pont de Rungis Aéroport d'Orly",
+    "id": "8754619",
+    "train": false,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "PONT DE RUNGIS AEROPORT D'ORLY"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.369708197729215,
+    "latitude": 48.74712629704441
+  },
+  {
+    "label": "Pont du Garigliano - Hôpital Européen G. Pompidou",
+    "id": "8739332",
+    "train": false,
+    "rer": true,
+    "tramway": true,
+    "keywords": [
+      "PONT DU GARIGLIANO HOPITAL EUROPEEN G. POMPIDOU",
+      "PONT DU GARIGLIANO HOPITAL EUROPEEN GEORGES POMPIDOU"
+    ],
+    "nbAutomates": 3,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.270480189164176,
+    "latitude": 48.83915148467825
+  },
+  {
+    "label": "Ponthierry - Pringy",
+    "id": "8768252",
+    "train": false,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "PONTHIERRY PRINGY"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.545060680109201,
+    "latitude": 48.53499652365479
+  },
+  {
+    "label": "Pontoise",
+    "id": "8727613",
+    "train": true,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "PONTOISE"
+    ],
+    "nbAutomates": 4,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.101952622247184,
+    "latitude": 49.04556871447304
+  },
+  {
+    "label": "Pont Petit",
+    "id": "8727615",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "PONT PETIT"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.13189946288353,
+    "latitude": 49.06154181782874
+  },
+  {
+    "label": "Porchefontaine",
+    "id": "8739316",
+    "train": false,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "PORCHEFONTAINE"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.151756215590128,
+    "latitude": 48.79657256409816
+  },
+  {
+    "label": "Porte de Clichy",
+    "id": "8711127",
+    "train": false,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "PORTE DE CLICHY"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.314861520239935,
+    "latitude": 48.89401765628809
+  },
+  {
+    "label": "Port Royal",
+    "id": "8775862",
+    "train": false,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "PORT ROYAL"
+    ],
+    "nbAutomates": 0,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.337096430891528,
+    "latitude": 48.840033785584225
+  },
+  {
+    "label": "Précy-sur-Oise",
+    "id": "8727641",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "PRECY SUR OISE"
+    ],
+    "nbAutomates": 0,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.376953455328803,
+    "latitude": 49.203501298737045
+  },
+  {
+    "label": "Presles - Courcelles",
+    "id": "8727650",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "PRESLES COURCELLES"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.287901978158134,
+    "latitude": 49.11345994243122
+  },
+  {
+    "label": "Provins",
+    "id": "8711616",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "PROVINS"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 3.30307374775591,
+    "latitude": 48.55561676128615
+  },
+  {
+    "label": "Puteaux",
+    "id": "8738238",
+    "train": true,
+    "rer": false,
+    "tramway": true,
+    "keywords": [
+      "PUTEAUX"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.233808729504566,
+    "latitude": 48.88351576455218
+  },
+  {
+    "label": "Rambouillet",
+    "id": "8739331",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "RAMBOUILLET"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 1.831365471508512,
+    "latitude": 48.64330050790358
+  },
+  {
+    "label": "Remise à Jorelle",
+    "id": "8798870",
+    "train": false,
+    "rer": false,
+    "tramway": true,
+    "keywords": [
+      "REMISE A JORELLE"
+    ],
+    "nbAutomates": 0,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.485832518295548,
+    "latitude": 48.89286804531261
+  },
+  {
+    "label": "République - Marx Dormoy",
+    "id": "8770425",
+    "train": false,
+    "rer": false,
+    "tramway": true,
+    "keywords": [
+      "REPUBLIQUE MARX DORMOY"
+    ],
+    "nbAutomates": 0,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "latitude": 48.9065747,
+    "longitude": 2.524041
+  },
+  {
+    "label": "Ris-Orangis",
+    "id": "8768133",
+    "train": false,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "RIS ORANGIS"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.414413081977818,
+    "latitude": 48.65929001087892
+  },
+  {
+    "label": "Robinson",
+    "id": "8775872",
+    "train": false,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "ROBINSON"
+    ],
+    "nbAutomates": 0,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.281430595425077,
+    "latitude": 48.780237297072865
+  },
+  {
+    "label": "Roissy-en-Brie",
+    "id": "8711603",
+    "train": false,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "ROISSY EN BRIE"
+    ],
+    "nbAutomates": 3,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.650477016233284,
+    "latitude": 48.79562254504369
+  },
+  {
+    "label": "Romain Rolland",
+    "id": "8770429",
+    "train": false,
+    "rer": false,
+    "tramway": true,
+    "keywords": [
+      "ROMAIN ROLLAND"
+    ],
+    "nbAutomates": 0,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "latitude": 48.904717,
+    "longitude": 2.5479872
+  },
+  {
+    "label": "Rosa Parks",
+    "id": "8765479",
+    "train": true,
+    "rer": true,
+    "tramway": true,
+    "keywords": [
+      "ROSA PARKS"
+    ],
+    "nbAutomates": 3,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.3797957115818,
+    "latitude": 48.89758531281426
+  },
+  {
+    "label": "Rosny Bois Perrier",
+    "id": "8711369",
+    "train": false,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "ROSNY BOIS PERRIER"
+    ],
+    "nbAutomates": 4,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.481478166402765,
+    "latitude": 48.88247987492721
+  },
+  {
+    "label": "Rosny-sous-Bois",
+    "id": "8711370",
+    "train": false,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "ROSNY SOUS BOIS"
+    ],
+    "nbAutomates": 3,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.486053771443001,
+    "latitude": 48.87051086552947
+  },
+  {
+    "label": "Rosny-sur-Seine",
+    "id": "8741588",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "ROSNY SUR SEINE"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 1.630118489473192,
+    "latitude": 48.997391608149435
+  },
+  {
+    "label": "Rougemont Chanteloup",
+    "id": "8743179",
+    "train": false,
+    "rer": false,
+    "tramway": true,
+    "keywords": [
+      "ROUGEMONT CHANTELOUP"
+    ],
+    "nbAutomates": 0,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.515190927487388,
+    "latitude": 48.930905967813096
+  },
+  {
+    "label": "Rueil-Malmaison",
+    "id": "8775805",
+    "train": false,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "RUEIL MALMAISON"
+    ],
+    "nbAutomates": 0,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.172579449082058,
+    "latitude": 48.88757361771382
+  },
+  {
+    "label": "Rungis la Fraternelle",
+    "id": "8754629",
+    "train": false,
+    "rer": true,
+    "tramway": true,
+    "keywords": [
+      "RUNGIS LA FRATERNELLE"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.352899162059443,
+    "latitude": 48.740439993955135
+  },
+  {
+    "label": "Saint-Chéron",
+    "id": "8754550",
+    "train": false,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "SAINT CHERON"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.12573556579795,
+    "latitude": 48.55109190923052
+  },
+  {
+    "label": "Saint-Cloud",
+    "id": "8738235",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "SAINT CLOUD"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.209983705809441,
+    "latitude": 48.84049030729682
+  },
+  {
+    "label": "Saint-Cyr",
+    "id": "8739322",
+    "train": true,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "SAINT CYR"
+    ],
+    "nbAutomates": 3,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.073118293820027,
+    "latitude": 48.798855476988486
+  },
+  {
+    "label": "Saint-Denis",
+    "id": "8727101",
+    "train": true,
+    "rer": true,
+    "tramway": true,
+    "keywords": [
+      "SAINT DENIS"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.344687723132862,
+    "latitude": 48.938403023039626
+  },
+  {
+    "label": "Sainte-Colombe Septveilles",
+    "id": "8711617",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "SAINTE COLOMBE SEPTVEILLES"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 3.255707734379226,
+    "latitude": 48.52933650008643
+  },
+  {
+    "label": "Sainte-Geneviève-des-Bois",
+    "id": "8754521",
+    "train": false,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "SAINTE GENEVIEVE DES BOIS"
+    ],
+    "nbAutomates": 2,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.311349268650718,
+    "latitude": 48.652126468780416
+  },
+  {
+    "label": "Saint-Fargeau",
+    "id": "8768254",
+    "train": false,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "SAINT FARGEAU"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.542704719224442,
+    "latitude": 48.564574087372414
+  },
+  {
+    "label": "Saint-Germain-en-Laye",
+    "id": "8775809",
+    "train": false,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "SAINT GERMAIN EN LAYE"
+    ],
+    "nbAutomates": 0,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.094836628297753,
+    "latitude": 48.89807641019572
+  },
+  {
+    "label": "Saint-Germain-en-Laye Bel-Air - Fourqueux",
+    "id": "8736692",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "SAINT GERMAIN EN LAYE BEL AIR FOURQUEUX"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.069813164581138,
+    "latitude": 48.894567467109496
+  },
+  {
+    "label": "Saint-Germain-en-Laye Grande Ceinture",
+    "id": "8738280",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "SAINT GERMAIN EN LAYE GRANDE CEINTURE"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.072918440915781,
+    "latitude": 48.90359235418844
+  },
+  {
+    "label": "Saint-Gratien",
+    "id": "8727617",
+    "train": false,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "SAINT GRATIEN"
+    ],
+    "nbAutomates": 2,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.285157124100721,
+    "latitude": 48.96387846079438
+  },
+  {
+    "label": "Saint-Leu-d'Esserent",
+    "id": "8727640",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "SAINT LEU D'ESSERENT"
+    ],
+    "nbAutomates": 0,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.418271593338085,
+    "latitude": 49.21443254592998
+  },
+  {
+    "label": "Saint-Leu-la-Forêt",
+    "id": "8727660",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "SAINT LEU LA FORET"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.242717056237729,
+    "latitude": 49.01541026276837
+  },
+  {
+    "label": "Saint-Mammès",
+    "id": "8768229",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "SAINT MAMMES"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.814555363396877,
+    "latitude": 48.38159397621057
+  },
+  {
+    "label": "Saint-Martin d'Étampes",
+    "id": "8754535",
+    "train": false,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "SAINT MARTIN D'ETAMPES"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.14530897698044,
+    "latitude": 48.4273872831252
+  },
+  {
+    "label": "Saint-Maur-des-Fossés - Créteil",
+    "id": "8775815",
+    "train": false,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "SAINT MAUR CRETEIL",
+      "SAINT MAUR DES FOSSES CRETEIL"
+    ],
+    "nbAutomates": 0,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.472720403802171,
+    "latitude": 48.806200023829
+  },
+  {
+    "label": "Saint-Michel Notre-Dame",
+    "id": "8778543",
+    "train": false,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "SAINT MICHEL NOTRE DAME"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.343285978923923,
+    "latitude": 48.8531679839561
+  },
+  {
+    "label": "Saint-Michel-sur-Orge",
+    "id": "8754520",
+    "train": false,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "SAINT MICHEL SUR ORGE"
+    ],
+    "nbAutomates": 2,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.30709915778822,
+    "latitude": 48.633968645205
+  },
+  {
+    "label": "Saint-Nom-la-Bretèche Forêt de Marly",
+    "id": "8738248",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "SAINT NOM LA BRETECHE FORET DE MARLY"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.051236366018679,
+    "latitude": 48.86811840014396
+  },
+  {
+    "label": "Saint-Ouen",
+    "id": "8727124",
+    "train": false,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "SAINT OUEN"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.322511500997242,
+    "latitude": 48.90524671472524
+  },
+  {
+    "label": "Saint-Ouen-l'Aumône",
+    "id": "8727610",
+    "train": true,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "SAINT OUEN L'AUMONE"
+    ],
+    "nbAutomates": 2,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.107667640493494,
+    "latitude": 49.04542573292791
+  },
+  {
+    "label": "Saint-Ouen-l'Aumône Liesse",
+    "id": "8733798",
+    "train": true,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "SAINT OUEN L'AUMONE LIESSE"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.128452787001785,
+    "latitude": 49.033892952000414
+  },
+  {
+    "label": "Saint-Ouen-l'Aumône Quartier de l'Église",
+    "id": "8738142",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "SAINT OUEN L'AUMONE QUARTIER DE L'EGLISE"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.103636686072468,
+    "latitude": 49.03928027866388
+  },
+  {
+    "label": "Saint-Quentin en Yvelines - Montigny-le-Bretonneux",
+    "id": "8739384",
+    "train": true,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "SAINT QUENTIN EN YVELINES",
+      "SAINT QUENTIN EN YVELINES MONTIGNY LE BRETONNEUX"
+    ],
+    "nbAutomates": 4,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.0450196671821,
+    "latitude": 48.78780595522491
+  },
+  {
+    "label": "Saint-Rémy-lès-Chevreuse",
+    "id": "8775889",
+    "train": false,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "SAINT REMY LES CHEVREUSE"
+    ],
+    "nbAutomates": 0,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.0712428490222,
+    "latitude": 48.70275104206267
+  },
+  {
+    "label": "Sannois",
+    "id": "8727618",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "SANNOIS"
+    ],
+    "nbAutomates": 3,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.264010599110742,
+    "latitude": 48.97012034624775
+  },
+  {
+    "label": "Santeuil - Le Perchay",
+    "id": "8738118",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "SANTEUIL LE PERCHAY"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 1.949101836775275,
+    "latitude": 49.12405278609706
+  },
+  {
+    "label": "Sarcelles - Saint-Brice",
+    "id": "8727638",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "SARCELLES SAINT BRICE"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.36848907128339,
+    "latitude": 48.99521236875985
+  },
+  {
+    "label": "Sartrouville",
+    "id": "8738641",
+    "train": true,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "SARTROUVILLE"
+    ],
+    "nbAutomates": 6,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.157720234633013,
+    "latitude": 48.93711744194361
+  },
+  {
+    "label": "Savigny-le-Temple - Nandy",
+    "id": "8768218",
+    "train": true,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "SAVIGNY LE TEMPLE NANDY"
+    ],
+    "nbAutomates": 2,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.583524582251346,
+    "latitude": 48.5970370806154
+  },
+  {
+    "label": "Savigny-sur-Orge",
+    "id": "8754523",
+    "train": false,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "SAVIGNY SUR ORGE"
+    ],
+    "nbAutomates": 3,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.350796401210213,
+    "latitude": 48.67458035626294
+  },
+  {
+    "label": "Sceaux",
+    "id": "8775870",
+    "train": false,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "SCEAUX"
+    ],
+    "nbAutomates": 0,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.297647679167028,
+    "latitude": 48.78135671949696
+  },
+  {
+    "label": "Sermaise",
+    "id": "8754551",
+    "train": false,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "SERMAISE"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.068711556072385,
+    "latitude": 48.53547028542868
+  },
+  {
+    "label": "Seugy",
+    "id": "8727203",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "SEUGY"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.398158008359361,
+    "latitude": 49.118901164745715
+  },
+  {
+    "label": "Sevran Beaudottes",
+    "id": "8727144",
+    "train": false,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "SEVRAN BEAUDOTTES"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.524800187218361,
+    "latitude": 48.945901249638524
+  },
+  {
+    "label": "Sevran - Livry",
+    "id": "8727142",
+    "train": false,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "SEVRAN LIVRY"
+    ],
+    "nbAutomates": 3,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.53467616246107,
+    "latitude": 48.9362806402049
+  },
+  {
+    "label": "Sèvres Rive Gauche",
+    "id": "8739312",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "SEVRES RIVE GAUCHE"
+    ],
+    "nbAutomates": 2,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.214822441475013,
+    "latitude": 48.82111096815825
+  },
+  {
+    "label": "Sèvres - Ville-d'Avray",
+    "id": "8738234",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "SEVRES VILLE D'AVRAY"
+    ],
+    "nbAutomates": 2,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.200787293018457,
+    "latitude": 48.82741176034041
+  },
+  {
+    "label": "Souppes - Château-Landon",
+    "id": "8768421",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "SOUPPES CHATEAU LANDON"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.735014280352225,
+    "latitude": 48.18178496677811
+  },
+  {
+    "label": "Stade de France Saint-Denis",
+    "id": "8716478",
+    "train": false,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "STADE DE FRANCE SAINT DENIS"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.349772507710506,
+    "latitude": 48.91864025141908
+  },
+  {
+    "label": "Stains la Cerisaie",
+    "id": "8769733",
+    "train": false,
+    "rer": false,
+    "tramway": true,
+    "keywords": [
+      "STAINS CERISAIE",
+      "STAINS LA CERISAIE"
+    ],
+    "nbAutomates": 0,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.391658086990002,
+    "latitude": 48.95468724360871
+  },
+  {
+    "label": "Sucy - Bonneuil",
+    "id": "8775819",
+    "train": false,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "SUCY BONNEUIL"
+    ],
+    "nbAutomates": 0,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.5074826457228,
+    "latitude": 48.77170790513006
+  },
+  {
+    "label": "Suresnes Mont Valérien",
+    "id": "8738237",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "SURESNES MONT VALERIEN"
+    ],
+    "nbAutomates": 2,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.221062051357459,
+    "latitude": 48.87168355309941
+  },
+  {
+    "label": "Survilliers - Fosses",
+    "id": "8727626",
+    "train": false,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "SURVILLIERS FOSSES"
+    ],
+    "nbAutomates": 2,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.525645090544201,
+    "latitude": 49.1001293237322
+  },
+  {
+    "label": "Tacoignières - Richebourg",
+    "id": "8739345",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "TACOIGNIERES RICHEBOURG"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 1.668976477416391,
+    "latitude": 48.829383318825045
+  },
+  {
+    "label": "Taverny",
+    "id": "8727663",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "TAVERNY"
+    ],
+    "nbAutomates": 2,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.22158347536852,
+    "latitude": 49.02528263878814
+  },
+  {
+    "label": "Thieux - Nantouillet",
+    "id": "8727205",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "THIEUX NANTOUILLET"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.680668300885391,
+    "latitude": 49.008601812535794
+  },
+  {
+    "label": "Thomery",
+    "id": "8768225",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "THOMERY"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.762318803658344,
+    "latitude": 48.394401706465494
+  },
+  {
+    "label": "Thun le Paradis",
+    "id": "8738182",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "THUN LE PARADIS"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 1.920156337778501,
+    "latitude": 49.00678520012826
+  },
+  {
+    "label": "Torcy",
+    "id": "8775837",
+    "train": false,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "TORCY"
+    ],
+    "nbAutomates": 0,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.655130086641313,
+    "latitude": 48.83964551632845
+  },
+  {
+    "label": "Tournan",
+    "id": "8711621",
+    "train": true,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "TOURNAN"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.7594111728369,
+    "latitude": 48.73932470497817
+  },
+  {
+    "label": "Trappes",
+    "id": "8739383",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "TRAPPES"
+    ],
+    "nbAutomates": 2,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.007320035731464,
+    "latitude": 48.775053259812324
+  },
+  {
+    "label": "Trie-Château",
+    "id": "8738123",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "TRIE CHATEAU"
+    ],
+    "nbAutomates": 0,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 1.818143929978403,
+    "latitude": 49.28265560153135
+  },
+  {
+    "label": "Triel-sur-Seine",
+    "id": "8738180",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "TRIEL SUR SEINE"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.006151763273637,
+    "latitude": 48.98092617764641
+  },
+  {
+    "label": "Trilport",
+    "id": "8711649",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "TRILPORT"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.949478849751468,
+    "latitude": 48.96019105647409
+  },
+  {
+    "label": "Us",
+    "id": "8738117",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "US"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 1.970571442485532,
+    "latitude": 49.099575309029696
+  },
+  {
+    "label": "Vaires - Torcy",
+    "id": "8711629",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "VAIRES TORCY"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.639812414451987,
+    "latitude": 48.8753517513271
+  },
+  {
+    "label": "Val d'Argenteuil",
+    "id": "8738179",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "VAL D'ARGENTEUIL"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.231272667616184,
+    "latitude": 48.950330275256455
+  },
+  {
+    "label": "Val d'Europe",
+    "id": "8773006",
+    "train": false,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "VAL D'EUROPE"
+    ],
+    "nbAutomates": 0,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.77343391788355,
+    "latitude": 48.85539480809744
+  },
+  {
+    "label": "Val de Fontenay",
+    "id": "8711371",
+    "train": false,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "VAL DE FONTENAY"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.489234573016151,
+    "latitude": 48.85407784987592
+  },
+  {
+    "label": "Valmondois",
+    "id": "8727653",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "VALMONDOIS"
+    ],
+    "nbAutomates": 2,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.200978660197807,
+    "latitude": 49.08928376324113
+  },
+  {
+    "label": "Vanves - Malakoff",
+    "id": "8739153",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "VANVES MALAKOFF"
+    ],
+    "nbAutomates": 2,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.291884534098069,
+    "latitude": 48.81820275404127
+  },
+  {
+    "label": "Vauboyen",
+    "id": "8739353",
+    "train": false,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "VAUBOYEN"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.191964635404658,
+    "latitude": 48.75926108772385
+  },
+  {
+    "label": "Vaucelles",
+    "id": "8727662",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "VAUCELLES"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.229793890295861,
+    "latitude": 49.02159087977371
+  },
+  {
+    "label": "Vaucresson",
+    "id": "8738226",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "VAUCRESSON"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.152457655505388,
+    "latitude": 48.836743107448
+  },
+  {
+    "label": "Vaux-sur-Seine",
+    "id": "8738181",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "VAUX SUR SEINE"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 1.963181108519656,
+    "latitude": 49.00727114981752
+  },
+  {
+    "label": "Verneuil-l'Étang",
+    "id": "8711607",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "VERNEUIL L'ETANG"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.825024773080076,
+    "latitude": 48.64444131695957
+  },
+  {
+    "label": "Vernon - Giverny",
+    "id": "8741560",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "VERNON",
+      "VERNON GIVERNY"
+    ],
+    "nbAutomates": 0,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 1.478464031558935,
+    "latitude": 49.09116847125959
+  },
+  {
+    "label": "Vernouillet - Verneuil",
+    "id": "8738665",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "VERNOUILLET VERNEUIL"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 1.98310692496165,
+    "latitude": 48.98136837007953
+  },
+  {
+    "label": "Vernou-sur-Seine",
+    "id": "8768246",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "VERNOU SUR SEINE"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.84261135086371,
+    "latitude": 48.386362841837084
+  },
+  {
+    "label": "Versailles Chantiers",
+    "id": "8739300",
+    "train": true,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "VERSAILLES CHANTIERS"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.137060348306639,
+    "latitude": 48.79540355080524
+  },
+  {
+    "label": "Versailles Château Rive Gauche",
+    "id": "8739315",
+    "train": false,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "Versailles Château Rive Gauche",
+      "VERSAILLES CHATEAU RIVE GAUCHE"
+    ],
+    "nbAutomates": 4,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.129015398019133,
+    "latitude": 48.80026061606698
+  },
+  {
+    "label": "Versailles Rive Droite",
+    "id": "8738286",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "VERSAILLES RIVE DROITE"
+    ],
+    "nbAutomates": 3,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.13569052240065,
+    "latitude": 48.80960686623229
+  },
+  {
+    "label": "Vert Galant",
+    "id": "8727143",
+    "train": false,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "VERT GALANT"
+    ],
+    "nbAutomates": 2,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.566815348539116,
+    "latitude": 48.94428616794622
+  },
+  {
+    "label": "Viarmes",
+    "id": "8727656",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "VIARMES"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.368714735306664,
+    "latitude": 49.11682368393774
+  },
+  {
+    "label": "Vigneux-sur-Seine",
+    "id": "8768130",
+    "train": false,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "VIGNEUX SUR SEINE"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.414485371610876,
+    "latitude": 48.7084287511915
+  },
+  {
+    "label": "Villabé",
+    "id": "8768161",
+    "train": false,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "VILLABE"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.461828319020637,
+    "latitude": 48.59264620198872
+  },
+  {
+    "label": "Villaines",
+    "id": "8727202",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "VILLAINES"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.349391049822035,
+    "latitude": 49.07861560140032
+  },
+  {
+    "label": "Villeneuve-la-Guyard",
+    "id": "8768310",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "VILLENEUVE LA GUYARD"
+    ],
+    "nbAutomates": 0,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 3.070452872854256,
+    "latitude": 48.342988618490054
+  },
+  {
+    "label": "Villeneuve-le-Roi",
+    "id": "8754527",
+    "train": false,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "VILLENEUVE LE ROI"
+    ],
+    "nbAutomates": 2,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.426928989786292,
+    "latitude": 48.73821835231162
+  },
+  {
+    "label": "Villeneuve-Saint-Georges",
+    "id": "8768182",
+    "train": true,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "VILLENEUVE SAINT GEORGES"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.446378941348848,
+    "latitude": 48.73143575073417
+  },
+  {
+    "label": "Villeneuve Triage",
+    "id": "8768180",
+    "train": false,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "VILLENEUVE TRIAGE"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.438468473703435,
+    "latitude": 48.745460746350595
+  },
+  {
+    "label": "Villennes-sur-Seine",
+    "id": "8738664",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "VILLENNES SUR SEINE"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 1.999664247353981,
+    "latitude": 48.939500312166594
+  },
+  {
+    "label": "Villeparisis - Mitry-le-Neuf",
+    "id": "8727151",
+    "train": false,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "VILLEPARISIS MITRY LE NEUF"
+    ],
+    "nbAutomates": 3,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.60284772676128,
+    "latitude": 48.953093201420536
+  },
+  {
+    "label": "Villepinte",
+    "id": "8727145",
+    "train": false,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "VILLEPINTE"
+    ],
+    "nbAutomates": 2,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.512440870606306,
+    "latitude": 48.963074764492056
+  },
+  {
+    "label": "Villepreux - Les Clayes",
+    "id": "8739341",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "VILLEPREUX LES CLAYES"
+    ],
+    "nbAutomates": 3,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 1.992449549946879,
+    "latitude": 48.82400399347824
+  },
+  {
+    "label": "Villetaneuse Université",
+    "id": "59900",
+    "train": false,
+    "rer": false,
+    "tramway": true,
+    "keywords": [
+      "VILLETANEUSE UNIVERSITE"
+    ],
+    "nbAutomates": 0,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.342504679282486,
+    "latitude": 48.95995301702822
+  },
+  {
+    "label": "Villiers-le-Bel - Gonesse - Arnouville",
+    "id": "8727622",
+    "train": false,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "VILLIERS LE BEL GONESSE ARNOUVILLE"
+    ],
+    "nbAutomates": 2,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.417110370855272,
+    "latitude": 48.994495033295564
+  },
+  {
+    "label": "Villiers Montbarbin",
+    "id": "8711674",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "VILLIERS MONTBARBIN"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.883149204996345,
+    "latitude": 48.86325651023435
+  },
+  {
+    "label": "Villiers - Neauphle - Pontchartrain",
+    "id": "8739388",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "VILLIERS NEAUPHLE PONTCHARTRAIN"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 1.877545105122548,
+    "latitude": 48.81527539849273
+  },
+  {
+    "label": "Villiers-sur-Marne - Le Plessis-Trévise",
+    "id": "8711379",
+    "train": false,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "VILLIERS SUR MARNE PLESSIS TREVISE",
+      "VILLIERS SUR MARNE LE PLESSIS TREVISE"
+    ],
+    "nbAutomates": 4,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.542603247392524,
+    "latitude": 48.823117291772405
+  },
+  {
+    "label": "Vincennes",
+    "id": "8775811",
+    "train": false,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "VINCENNES"
+    ],
+    "nbAutomates": 0,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.433299717644524,
+    "latitude": 48.84730835851675
+  },
+  {
+    "label": "Viroflay Rive Droite",
+    "id": "8738288",
+    "train": true,
+    "rer": false,
+    "tramway": true,
+    "keywords": [
+      "VIROFLAY RIVE DROITE"
+    ],
+    "nbAutomates": 2,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.168330429239693,
+    "latitude": 48.80545011624403
+  },
+  {
+    "label": "Viroflay Rive Gauche",
+    "id": "8739321",
+    "train": true,
+    "rer": true,
+    "tramway": true,
+    "keywords": [
+      "VIROFLAY RIVE GAUCHE"
+    ],
+    "nbAutomates": 3,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.171520002305991,
+    "latitude": 48.8005737573124
+  },
+  {
+    "label": "Viry-Châtillon",
+    "id": "8768131",
+    "train": false,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "VIRY CHATILLON"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.386823087795419,
+    "latitude": 48.67612207544676
+  },
+  {
+    "label": "Vitry-sur-Seine",
+    "id": "8754529",
+    "train": false,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "VITRY SUR SEINE"
+    ],
+    "nbAutomates": 3,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.403548612394372,
+    "latitude": 48.798813904369624
+  },
+  {
+    "label": "Vosves",
+    "id": "8768250",
+    "train": false,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "VOSVES"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.599320195246332,
+    "latitude": 48.515159720248135
+  },
+  {
+    "label": "Vulaines-sur-Seine - Samoreau",
+    "id": "8768244",
+    "train": true,
+    "rer": false,
+    "tramway": false,
+    "keywords": [
+      "VULAINES SUR SEINE SAMOREAU"
+    ],
+    "nbAutomates": 1,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.753071315575744,
+    "latitude": 48.43056863999238
+  },
+  {
+    "label": "Yerres",
+    "id": "8768211",
+    "train": true,
+    "rer": true,
+    "tramway": false,
+    "keywords": [
+      "YERRES"
+    ],
+    "nbAutomates": 3,
+    "sncf": false,
+    "tempsReel": true,
+    "lignes": false,
+    "longitude": 2.481357750858454,
+    "latitude": 48.70617437531325
+  }
+]
